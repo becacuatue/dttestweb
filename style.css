@@ -327,6 +327,24 @@ body{
     button{font-size: xx-small;}
     input{font-size: xx-small;}
 }
+.prev, .next {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background: rgba(190, 190, 190, 0.5);
+    color: white;
+    border: none;
+    border-radius: 20px;
+    padding: 50px 16px;
+    cursor: pointer;
+    font-size: 20px;
+}
+.prev{
+    left: -7%;
+}
+.next{
+    right: -7%;
+}
     .footer_main{
             font-size: xx-small;
             width: 98%;
