@@ -1,0 +1,153 @@
+body {
+    font-family: "Segoe UI", sans-serif;
+    background: #f5f5f5;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.cart-container {
+    max-width: 800px;
+    margin: auto;
+    background: white;
+    padding: 20px;
+    border-radius: 12px;
+}
+
+.cart-item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 15px 0;
+    border-bottom: 1px solid #eee;
+}
+
+.cart-item img {
+    width: 80px;
+    height: 80px;
+    border-radius: 10px;
+    margin-right: 15px;
+}
+
+.item-info {
+    flex: 1;
+}
+
+.item-name {
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.price {
+    color: #d9534f;
+    font-weight: bold;
+}
+
+.quantity-box {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.quantity-box button {
+    width: 28px;
+    height: 28px;
+    border: none;
+    background: #333;
+    color: white;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+.remove-btn {
+    background: #ff3b3b;
+    color: white;
+    border: none;
+    padding: 6px 10px;
+    border-radius: 6px;
+    cursor: pointer;
+    margin-left: 5px;
+}
+
+.total-box {
+    text-align: right;
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: bold;
+}
+@media(max-width:500px){
+    .cart-container {
+    max-width: 800px;
+    margin: auto;
+    background: white;
+    padding: 10px;
+    border-radius: 9px;
+}
+
+.cart-item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 8px 0;
+    border-bottom: 1px solid #eee;
+}
+
+.cart-item img {
+    width: 50px;
+    height: 50px;
+    border-radius: 7px;
+    margin-right: 15px;
+}
+
+.item-info {
+    flex: 1;
+    font-size: xx-small;
+}
+
+.item-name {
+    font-size: 8px;
+    font-weight: bold;
+}
+
+.price {
+    color: #d9534f;
+    font-weight: bold;
+}
+
+.quantity-box {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: xx-small;
+}
+
+.quantity-box button {
+    width: 18px;
+    height: 18px;
+    border: none;
+    background: #333;
+    color: white;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+.remove-btn {
+    background: #ff3b3b;
+    color: white;
+    border: none;
+    padding: 3px 5px;
+    border-radius: 6px;
+    cursor: pointer;
+    margin-left: 5px;
+    font-size: xx-small;
+}
+
+.total-box {
+    text-align: right;
+    margin-top: 5px;
+    font-size: xx-small;
+    font-weight: bold;
+}
+}

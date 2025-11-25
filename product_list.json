@@ -1,0 +1,230 @@
+[
+  {
+    "id":"26",
+    "tags":["Order","Giày"],
+    "brand":["Nike"],
+    "subtags":["Jordan 1","Jordan 1 High"],
+    "name": "Jordan 1 Travis",
+    "img": "img/ảnh giày edited/wsxc1758377851868_0.png",
+    "img2":"img/ảnh giày edited/wsxc1758377920656_0.png",
+    "img3":"img/ảnh giày edited/wsxc1758377938151_0.png",
+    "img4":"img/ảnh giày edited/wsxc1758377959316_0.png",
+    "img5":"img/ảnh giày edited/wsxc1758377990196_0.png",
+    "price": 1500000,
+    "size":["36","37","38","39","40","41","42","43","44","45"],
+    "materials": {
+        "Cotton": 60,
+        "Polyester": 30,
+        "Spandex": 10
+    },
+    "ratings": {"Độ biền":8, "Chất Lượng":7, "Tương đồng":6, "Độ Hiếm":3 },
+    "des":"Air Jordan 1 là một biểu tượng văn hóa sát cánh cùng Michael Jordan, nổi tiếng với thiết kế vượt thời gian, sự thoải mái và di sản bóng rổ lừng lẫy.\n\nĐặc điểm chung\nBộ đệm Air-Sole: Tất cả các phiên bản Air Jordan 1 đều được trang bị bộ đệm Air-Sole (hoặc Nike Air technology) ở gót chân hoặc đế giữa, mang lại khả năng hấp thụ lực và sự thoải mái nhẹ nhàng.\nVật liệu cao cấp: Thân giày thường sử dụng kết hợp da thật và các vật liệu dệt khác (ví dụ: da nubuck, vải canvas) để đảm bảo độ bền và vẻ ngoài cao cấp.\nLogo: Các chi tiết logo nổi bật bao gồm dấu Swoosh đặc trưng của Nike ở hai bên, logo Wings (Đôi cánh) trên cổ giày (hoặc gót chân đối với bản Low) và logo Nike Air trên lưỡi gà.\nĐế ngoài: Đế ngoài bằng cao su bền bỉ cung cấp độ bám tốt trên nhiều bề mặt khác nhau. "
+  }, 
+  {
+    "id":"25",
+    "tags":["Order","Giày"],
+    "brand":["Nike"],
+    "subtags":["Jordan 1","Jordan 1 High"],
+    "name": "Jordan 5",
+    "img": "img/ảnh giày edited/wsxc1758377568380_0.png",
+    "img2":"img/ảnh giày edited/wsxc1758377568380_1.png",
+    "img3":"img/ảnh giày edited/wsxc1758377568380_3.png",
+    "img4":"img/ảnh giày edited/wsxc1758377568380_5.png",
+    "img5":"img/ảnh giày edited/wsxc1758538761468_6.png",
+    "price": 1500000,
+    "size":["36","37","38","39","40","41","42","43","44","45"],
+    "materials": {
+        "Cotton": 60,
+        "Polyester": 30,
+        "Spandex": 10
+    },
+    "ratings": {"Độ biền":8, "Chất Lượng":7, "Tương đồng":6, "Độ Hiếm":3 },
+    "des":"Air Jordan 1 là một biểu tượng văn hóa sát cánh cùng Michael Jordan, nổi tiếng với thiết kế vượt thời gian, sự thoải mái và di sản bóng rổ lừng lẫy.\n\nĐặc điểm chung\nBộ đệm Air-Sole: Tất cả các phiên bản Air Jordan 1 đều được trang bị bộ đệm Air-Sole (hoặc Nike Air technology) ở gót chân hoặc đế giữa, mang lại khả năng hấp thụ lực và sự thoải mái nhẹ nhàng.\nVật liệu cao cấp: Thân giày thường sử dụng kết hợp da thật và các vật liệu dệt khác (ví dụ: da nubuck, vải canvas) để đảm bảo độ bền và vẻ ngoài cao cấp.\nLogo: Các chi tiết logo nổi bật bao gồm dấu Swoosh đặc trưng của Nike ở hai bên, logo Wings (Đôi cánh) trên cổ giày (hoặc gót chân đối với bản Low) và logo Nike Air trên lưỡi gà.\nĐế ngoài: Đế ngoài bằng cao su bền bỉ cung cấp độ bám tốt trên nhiều bề mặt khác nhau. "
+  }, 
+  {
+    "id":"24",
+    "tags":["Order","Giày"],
+    "brand":["Nike"],
+    "subtags":["Jordan 1","Jordan 1 High"],
+    "name": "Jordan 5",
+    "img": "img/ảnh giày edited/wsxc1758538761468_0.png",
+    "img2":"img/ảnh giày edited/wsxc1758538761468_1.png",
+    "img3":"img/ảnh giày edited/wsxc1758538761468_2.png",
+    "img4":"img/ảnh giày edited/wsxc1758538761468_3.png",
+    "img5":"img/ảnh giày edited/wsxc1758538761468_6.png",
+    "price": 1500000,
+    "size":["36","37","38","39","40","41","42","43","44","45"],
+    "materials": {
+        "Cotton": 60,
+        "Polyester": 30,
+        "Spandex": 10
+    },
+    "ratings": {"Độ biền":8, "Chất Lượng":7, "Tương đồng":6, "Độ Hiếm":3 },
+    "des":"Air Jordan 1 là một biểu tượng văn hóa sát cánh cùng Michael Jordan, nổi tiếng với thiết kế vượt thời gian, sự thoải mái và di sản bóng rổ lừng lẫy.\n\nĐặc điểm chung\nBộ đệm Air-Sole: Tất cả các phiên bản Air Jordan 1 đều được trang bị bộ đệm Air-Sole (hoặc Nike Air technology) ở gót chân hoặc đế giữa, mang lại khả năng hấp thụ lực và sự thoải mái nhẹ nhàng.\nVật liệu cao cấp: Thân giày thường sử dụng kết hợp da thật và các vật liệu dệt khác (ví dụ: da nubuck, vải canvas) để đảm bảo độ bền và vẻ ngoài cao cấp.\nLogo: Các chi tiết logo nổi bật bao gồm dấu Swoosh đặc trưng của Nike ở hai bên, logo Wings (Đôi cánh) trên cổ giày (hoặc gót chân đối với bản Low) và logo Nike Air trên lưỡi gà.\nĐế ngoài: Đế ngoài bằng cao su bền bỉ cung cấp độ bám tốt trên nhiều bề mặt khác nhau. "
+  }, 
+  {
+    "id":"23",
+    "tags":["Order","Giày"],
+    "brand":["Nike"],
+    "subtags":["Jordan 1","Jordan 1 High"],
+    "name": "Jordan 1 Union High",
+    "img": "img/ảnh giày edited/wsxc1758378102542_0.png",
+    "img2":"img/ảnh giày edited/wsxc1758378102542_1.png",
+    "img3":"img/ảnh giày edited/wsxc1758378102542_2.png",
+    "img4":"img/ảnh giày edited/wsxc1758378102542_3.png",
+    "img5":"img/ảnh giày edited/wsxc1758378102542_4.png",
+    "price": 1500000,
+    "size":["36","37","38","39","40","41","42","43","44","45"],
+    "materials": {
+        "Cotton": 60,
+        "Polyester": 30,
+        "Spandex": 10
+    },
+    "ratings": {"Độ biền":8, "Chất Lượng":7, "Tương đồng":6, "Độ Hiếm":3 },
+    "des":"Air Jordan 1 là một biểu tượng văn hóa sát cánh cùng Michael Jordan, nổi tiếng với thiết kế vượt thời gian, sự thoải mái và di sản bóng rổ lừng lẫy.\n\nĐặc điểm chung\nBộ đệm Air-Sole: Tất cả các phiên bản Air Jordan 1 đều được trang bị bộ đệm Air-Sole (hoặc Nike Air technology) ở gót chân hoặc đế giữa, mang lại khả năng hấp thụ lực và sự thoải mái nhẹ nhàng.\nVật liệu cao cấp: Thân giày thường sử dụng kết hợp da thật và các vật liệu dệt khác (ví dụ: da nubuck, vải canvas) để đảm bảo độ bền và vẻ ngoài cao cấp.\nLogo: Các chi tiết logo nổi bật bao gồm dấu Swoosh đặc trưng của Nike ở hai bên, logo Wings (Đôi cánh) trên cổ giày (hoặc gót chân đối với bản Low) và logo Nike Air trên lưỡi gà.\nĐế ngoài: Đế ngoài bằng cao su bền bỉ cung cấp độ bám tốt trên nhiều bề mặt khác nhau. "
+  }, 
+    {
+    "id":22,
+    "tags":["Sẵn","Quần"],
+    "name": "Sản phẩm A",
+    "img": "img/trapstar/2e9cec10.png",
+    "img2":"img/trapstar/78772e74.png",
+    "img3":"img/trapstar/a4add6b2.png",
+    "img4":"img/trapstar/ac3cf795.png",
+    "img5":"img/trapstar/17442df7.png",
+    "price": 1500000,
+    "size":["XL","L","M","M"],
+    "ratings": {"Độ biền":8, "Chất Lượng":7, "Tương đồng":6, "Độ Hiếm":3 },
+    "materials": {
+        "Cotton": 60,
+        "Polyester": 40
+    }
+  },  
+  {
+    "id":"21",
+    "tags":["Order","Giày"],
+    "brand":["Nike"],
+    "subtags":["Jordan 1","Jordan 1 High"],
+    "name": "Jordan 1 Union High",
+    "img": "img/ảnh giày edited/wsxc1758377467014_0.png",
+    "img2":"img/ảnh giày edited/wsxc1758377467014_1.png",
+    "img3":"img/ảnh giày edited/wsxc1758377467014_2.png",
+    "img4":"img/ảnh giày edited/wsxc1758377467014_3.png",
+    "img5":"img/ảnh giày edited/wsxc1758377467014_4.png",
+    "price": 1500000,
+    "size":["36","37","38","39","40","41","42","43","44","45"],
+    "materials": {
+        "Cotton": 60,
+        "Polyester": 30,
+        "Spandex": 10
+    },
+    "ratings": {"Độ biền":8, "Chất Lượng":7, "Tương đồng":6, "Độ Hiếm":3 },
+    "des":"Air Jordan 1 là một biểu tượng văn hóa sát cánh cùng Michael Jordan, nổi tiếng với thiết kế vượt thời gian, sự thoải mái và di sản bóng rổ lừng lẫy.\n\nĐặc điểm chung\nBộ đệm Air-Sole: Tất cả các phiên bản Air Jordan 1 đều được trang bị bộ đệm Air-Sole (hoặc Nike Air technology) ở gót chân hoặc đế giữa, mang lại khả năng hấp thụ lực và sự thoải mái nhẹ nhàng.\nVật liệu cao cấp: Thân giày thường sử dụng kết hợp da thật và các vật liệu dệt khác (ví dụ: da nubuck, vải canvas) để đảm bảo độ bền và vẻ ngoài cao cấp.\nLogo: Các chi tiết logo nổi bật bao gồm dấu Swoosh đặc trưng của Nike ở hai bên, logo Wings (Đôi cánh) trên cổ giày (hoặc gót chân đối với bản Low) và logo Nike Air trên lưỡi gà.\nĐế ngoài: Đế ngoài bằng cao su bền bỉ cung cấp độ bám tốt trên nhiều bề mặt khác nhau. "
+  }, 
+  {
+    "id":"19",
+    "tags":["Order","Áo"],
+    "name": "Sản phẩm A",
+    "img": "img/trapstar/2e9cec10.png",
+    "img2":"",
+    "img3":"",
+    "img4":"",
+    "img5":"",
+    "price": 1500000,
+    "star":"⭐⭐⭐⭐"
+  },  {
+    "id":"18",
+    "tags":["Sale"],
+    "name": "Sản phẩm A",
+    "img": "img/trapstar/2e9cec10.png",
+    "img2":"",
+    "img3":"",
+    "img4":"",
+    "img5":"",
+    "price": 1500000,
+    "star":"⭐⭐⭐⭐"
+  },
+{
+    "id":"215",
+    "tags":["Order","Giày"],
+    "brand":["Nike"],
+    "subtags":["Jordan 1","Jordan 1 High"],
+    "name": "Jordan 1 Union High",
+    "img": "img/ảnh giày edited/wsxc1758377467014_0.png",
+    "img2":"img/ảnh giày edited/wsxc1758377467014_1.png",
+    "img3":"img/ảnh giày edited/wsxc1758377467014_2.png",
+    "img4":"img/ảnh giày edited/wsxc1758377467014_3.png",
+    "img5":"img/ảnh giày edited/wsxc1758377467014_4.png",
+    "price": 1500000,
+    "size":["36","37","38","39","40","41","42","43","44","45"],
+    "materials": {
+        "Cotton": 60,
+        "Polyester": 30,
+        "Spandex": 10
+    },
+    "ratings": {"Độ biền":8, "Chất Lượng":7, "Tương đồng":6, "Độ Hiếm":3 },
+    "des":"Air Jordan 1 là một biểu tượng văn hóa sát cánh cùng Michael Jordan, nổi tiếng với thiết kế vượt thời gian, sự thoải mái và di sản bóng rổ lừng lẫy.\n\nĐặc điểm chung\nBộ đệm Air-Sole: Tất cả các phiên bản Air Jordan 1 đều được trang bị bộ đệm Air-Sole (hoặc Nike Air technology) ở gót chân hoặc đế giữa, mang lại khả năng hấp thụ lực và sự thoải mái nhẹ nhàng.\nVật liệu cao cấp: Thân giày thường sử dụng kết hợp da thật và các vật liệu dệt khác (ví dụ: da nubuck, vải canvas) để đảm bảo độ bền và vẻ ngoài cao cấp.\nLogo: Các chi tiết logo nổi bật bao gồm dấu Swoosh đặc trưng của Nike ở hai bên, logo Wings (Đôi cánh) trên cổ giày (hoặc gót chân đối với bản Low) và logo Nike Air trên lưỡi gà.\nĐế ngoài: Đế ngoài bằng cao su bền bỉ cung cấp độ bám tốt trên nhiều bề mặt khác nhau. "
+  }, 
+{
+    "id":"214",
+    "tags":["Order","Giày"],
+    "brand":["Nike"],
+    "subtags":["Jordan 1","Jordan 1 High"],
+    "name": "Jordan 1 Union High",
+    "img": "img/ảnh giày edited/wsxc1758377467014_0.png",
+    "img2":"img/ảnh giày edited/wsxc1758377467014_1.png",
+    "img3":"img/ảnh giày edited/wsxc1758377467014_2.png",
+    "img4":"img/ảnh giày edited/wsxc1758377467014_3.png",
+    "img5":"img/ảnh giày edited/wsxc1758377467014_4.png",
+    "price": 1500000,
+    "size":["36","37","38","39","40","41","42","43","44","45"],
+    "materials": {
+        "Cotton": 60,
+        "Polyester": 30,
+        "Spandex": 10
+    },
+    "ratings": {"Độ biền":8, "Chất Lượng":7, "Tương đồng":6, "Độ Hiếm":3 },
+    "des":"Air Jordan 1 là một biểu tượng văn hóa sát cánh cùng Michael Jordan, nổi tiếng với thiết kế vượt thời gian, sự thoải mái và di sản bóng rổ lừng lẫy.\n\nĐặc điểm chung\nBộ đệm Air-Sole: Tất cả các phiên bản Air Jordan 1 đều được trang bị bộ đệm Air-Sole (hoặc Nike Air technology) ở gót chân hoặc đế giữa, mang lại khả năng hấp thụ lực và sự thoải mái nhẹ nhàng.\nVật liệu cao cấp: Thân giày thường sử dụng kết hợp da thật và các vật liệu dệt khác (ví dụ: da nubuck, vải canvas) để đảm bảo độ bền và vẻ ngoài cao cấp.\nLogo: Các chi tiết logo nổi bật bao gồm dấu Swoosh đặc trưng của Nike ở hai bên, logo Wings (Đôi cánh) trên cổ giày (hoặc gót chân đối với bản Low) và logo Nike Air trên lưỡi gà.\nĐế ngoài: Đế ngoài bằng cao su bền bỉ cung cấp độ bám tốt trên nhiều bề mặt khác nhau. "
+  }, 
+{
+    "id":"213",
+    "tags":["Order","Giày"],
+    "brand":["Nike"],
+    "subtags":["Jordan 1","Jordan 1 High"],
+    "name": "Jordan 1 Union High",
+    "img": "img/ảnh giày edited/wsxc1758377467014_0.png",
+    "img2":"img/ảnh giày edited/wsxc1758377467014_1.png",
+    "img3":"img/ảnh giày edited/wsxc1758377467014_2.png",
+    "img4":"img/ảnh giày edited/wsxc1758377467014_3.png",
+    "img5":"img/ảnh giày edited/wsxc1758377467014_4.png",
+    "price": 1500000,
+    "size":["36","37","38","39","40","41","42","43","44","45"],
+    "materials": {
+        "Cotton": 60,
+        "Polyester": 30,
+        "Spandex": 10
+    },
+    "ratings": {"Độ biền":8, "Chất Lượng":7, "Tương đồng":6, "Độ Hiếm":3 },
+    "des":"Air Jordan 1 là một biểu tượng văn hóa sát cánh cùng Michael Jordan, nổi tiếng với thiết kế vượt thời gian, sự thoải mái và di sản bóng rổ lừng lẫy.\n\nĐặc điểm chung\nBộ đệm Air-Sole: Tất cả các phiên bản Air Jordan 1 đều được trang bị bộ đệm Air-Sole (hoặc Nike Air technology) ở gót chân hoặc đế giữa, mang lại khả năng hấp thụ lực và sự thoải mái nhẹ nhàng.\nVật liệu cao cấp: Thân giày thường sử dụng kết hợp da thật và các vật liệu dệt khác (ví dụ: da nubuck, vải canvas) để đảm bảo độ bền và vẻ ngoài cao cấp.\nLogo: Các chi tiết logo nổi bật bao gồm dấu Swoosh đặc trưng của Nike ở hai bên, logo Wings (Đôi cánh) trên cổ giày (hoặc gót chân đối với bản Low) và logo Nike Air trên lưỡi gà.\nĐế ngoài: Đế ngoài bằng cao su bền bỉ cung cấp độ bám tốt trên nhiều bề mặt khác nhau. "
+  }, 
+{
+    "id":"212",
+    "tags":["Order","Giày"],
+    "brand":["Nike"],
+    "subtags":["Jordan 1","Jordan 1 High"],
+    "name": "Jordan 1 Union High",
+    "img": "img/ảnh giày edited/wsxc1758377467014_0.png",
+    "img2":"img/ảnh giày edited/wsxc1758377467014_1.png",
+    "img3":"img/ảnh giày edited/wsxc1758377467014_2.png",
+    "img4":"img/ảnh giày edited/wsxc1758377467014_3.png",
+    "img5":"img/ảnh giày edited/wsxc1758377467014_4.png",
+    "price": 1500000,
+    "size":["36","37","38","39","40","41","42","43","44","45"],
+    "materials": {
+        "Cotton": 60,
+        "Polyester": 30,
+        "Spandex": 10
+    },
+    "ratings": {"Độ biền":8, "Chất Lượng":7, "Tương đồng":6, "Độ Hiếm":3 },
+    "des":"Air Jordan 1 là một biểu tượng văn hóa sát cánh cùng Michael Jordan, nổi tiếng với thiết kế vượt thời gian, sự thoải mái và di sản bóng rổ lừng lẫy.\n\nĐặc điểm chung\nBộ đệm Air-Sole: Tất cả các phiên bản Air Jordan 1 đều được trang bị bộ đệm Air-Sole (hoặc Nike Air technology) ở gót chân hoặc đế giữa, mang lại khả năng hấp thụ lực và sự thoải mái nhẹ nhàng.\nVật liệu cao cấp: Thân giày thường sử dụng kết hợp da thật và các vật liệu dệt khác (ví dụ: da nubuck, vải canvas) để đảm bảo độ bền và vẻ ngoài cao cấp.\nLogo: Các chi tiết logo nổi bật bao gồm dấu Swoosh đặc trưng của Nike ở hai bên, logo Wings (Đôi cánh) trên cổ giày (hoặc gót chân đối với bản Low) và logo Nike Air trên lưỡi gà.\nĐế ngoài: Đế ngoài bằng cao su bền bỉ cung cấp độ bám tốt trên nhiều bề mặt khác nhau. "
+  } ]

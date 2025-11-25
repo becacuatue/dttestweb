@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DT ORDER</title>
+    <!-- embeded font-->
+    <link rel="icon" href="img/Ảnh chụp màn hình 2024-12-02 223421.png" type="image/png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Momo+Trust+Display&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!--header-->
+    <header class="header">
+        <div class="main-content">
+            <!--logo-->
+            <h1 class="logo"><a href ="index.html"> DT ORDER.</a></h1>
+            <!--navigation-->
+            <nav class="nav" >
+                <a href="index.html" class="">HOME</a>
+                <a href="yourcart.html" class="">YOURCART</a>
+            </nav>
+        </div>
+    </header>
+    <hr>
+<!--product page==================================================================================================-->    
+    <div class="product_page">
+         <div class="product_detail">
+            <div class="large_product_img slides">
+                <img id="productImage" class="hideImg">
+                <button class="prev" onclick="prev()">&#10094;</button>
+                <button class="next" onclick="next()">&#10095;</button>
+                <img id="sildeImg2"src="" class="hideImg">
+                <img id="sildeImg3"src="" class="hideImg">
+                <img id="sildeImg4"src="" class="hideImg">
+                <img id="sildeImg5"src="" class="hideImg">
+            </div>
+            <div class="small_product_img ">
+                <img id="detailImg2"src="">
+                <img id="detailImg3"src="">
+                <img id="detailImg4"src="">
+                <img id="detailImg5"src="">
+            </div>
+        </div>
+
+        <div class="product_des">
+            <h5 id="productTag"></h5><!--tag------------------------------------------------->
+            <h2 id="productName" style="font-family: Helvetica;"></h2><!--name------------------------------------------>
+            <h3 style="margin-bottom:10px;" id="productPrice"></h3><!--price---------->
+            <div style="display:flex; margin:0px; margin-bottom:40px;">
+                <select class="button" id="size" style="margin-left:0px;margin-right:10px;">
+                    <option>Select size</option>
+                </select><br>
+                <select class="button" style="margin:0px; background-color: #ffffff; color:black; border: 1px solid black;">
+                    <option>Quantities</option>
+                    <option>1</option>
+                    <option>2</option>
+                    <option>3</option>
+                    <option>4</option>
+                    <option>5+</option>
+                </select>
+                <button class="button" style="margin-left: 10px; display: flex; align-items: center;" onclick="addToCart()">
+                Thêm vào giỏ 
+                <i class="fa-solid fa-cart-plus" style="color: #ffffff; margin-left: 10px;"></i>
+                </button>
+            </div>
+            <div class="chart">
+                <div id="chartContainer">
+                    <canvas id="materialChart"></canvas>
+                </div>
+                <div id="ratingContainer">
+                    <canvas id="ratingChart"></canvas>
+                </div>
+             </div>
+            <p id="productDes"></p>
+        </div>
+    </div>
+    <hr>
+    <div class="related-products-container">
+        <h3>Sản phẩm liên quan</h3>
+        <div class="slider" id="relatedSlider">
+            <div class="slider-track" id="sliderTrack"></div>
+        </div>
+    </div>
+
+    <footer class="footer_main">
+        <h1>DT <i class="fa-sharp fa-solid fa-face-smile fa-spin fa-spin fa-sm"></i>RDER</h1>
+        <div class="contact_box">
+            <h2>CONTACT LIST:</h2>
+            <ul>
+                <li>Tele/ZALO : 0335038618</li>
+                <li>Tham gia group sale : <a href="https://zalo.me/g/ftizzk959">https://zalo.me/g/ftizzk959</a></li>
+                <li>Tiktok : <a href="https://www.tiktok.com/@dthighend">https://www.tiktok.com/@dthighend</a></li>
+                <li>Instagram : <a href="https://www.instagram.com/dt_order/">https://www.instagram.com/dt_order/</a></li>
+            </ul>
+        </div>
+        <img src="img/kGSCdc_qrcode.png" >
+    </footer>
+    <script src="product_detail.js"></script>
+    <script src="script.js"></script>
+    <script src="chart.js"></script>
+    <script src="relatedproduct.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="cart.js"></script>
+</body>
+
+   
+   
