@@ -34,7 +34,7 @@
         allTags.forEach(tag => {
             tagBar.innerHTML += `
                 <button class="tag-btn ${activeTag === tag ? "active" : ""}" onclick="selectTag('${tag}')">
-                    #${tag}
+                    ${tag}
                 </button>
             `;
         });
