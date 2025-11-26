@@ -421,6 +421,9 @@ body{
     }
 }
 @media(max-width:500px) {
+    body {
+      padding:10px;
+    }
     .header{
         font-size: 10px;
         width: 98%;
@@ -461,4 +464,5 @@ body{
  
     }
 }
+
 
