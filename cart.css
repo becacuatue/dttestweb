@@ -78,6 +78,10 @@ h1 {
     font-weight: bold;
 }
 @media(max-width:500px){
+h1{
+    font-size: 1em;
+    text-align: left;
+}
     .cart-container {
     max-width: 800px;
     margin: auto;

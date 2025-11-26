@@ -1,92 +1,76 @@
- // ============================
-    // DATA SẢN PHẨM
-    // ============================
-let products = []; // array bên ngoài
-
-
-async function loadProducts() {
-    try {
-        const res = await fetch('product_list.json');
-        if (!res.ok) {
-            throw new Error(`HTTP error! status: ${res.status}`);
+    let products = [];
+    let selectedValue = null;
+    async function loadProducts() {
+        try {
+            const res = await fetch('product_list.json');
+            if (!res.ok) {
+                throw new Error(`HTTP error! status: ${res.status}`);
+            }
+            const data = await res.json();
+            products = data;
+        } catch (error) {
+            console.error("Lỗi khi tải sản phẩm:", error);
         }
-        const data = await res.json();
-        products = data; // Gán dữ liệu vào biến toàn cục
-    } catch (error) {
-        console.error("Lỗi khi tải sản phẩm:", error);
     }
-}
 
-// ----------------------------------------------------
-// KHAI BÁO BIẾN DOM (Có thể giữ ở đây vì không cần dữ liệu)
-// ----------------------------------------------------
-const tagBar = document.getElementById("tagBar");
-const productList = document.getElementById("productList");
-const searchInput = document.getElementById("search");
-const noResult = document.getElementById("noResult");
-const pagination = document.getElementById("pagination");
-const productStar = document.getElementById("productStar")
+    const tagBar = document.getElementById("tagBar");
+    const productList = document.getElementById("productList");
+    const searchInput = document.getElementById("search");
+    const noResult = document.getElementById("noResult");
+    const pagination = document.getElementById("pagination");
+    const productStar = document.getElementById("productStar")
 
-let allTags = []; // KHỞI TẠO BẰNG MẢNG RỖNG
-let activeTag = null;
-let currentPage = 1;
-const perPage = 48;
-
-// ============================
-// LOGIC CHÍNH CỦA CHƯƠNG TRÌNH
-// (GIỮ NGUYÊN - VÌ NÓ DÙNG BIẾN TOÀN CỤC)
-// ============================
-
-function renderTags() {
-    tagBar.innerHTML = `
-        <button class="tag-btn ${activeTag === null ? "active" : ""}" onclick="selectTag(null)">
-            Tất cả
-        </button>
-    `;
-
-    allTags.forEach(tag => { // allTags đã được cập nhật sau khi fetch
-        tagBar.innerHTML += `
-            <button class="tag-btn ${activeTag === tag ? "active" : ""}" onclick="selectTag('${tag}')">
-                #${tag}
+    let allTags = [];
+    let activeTag = null;
+    let currentPage = 1;
+    const perPage = 48;
+    function renderTags() {
+        tagBar.innerHTML = `
+            <button class="tag-btn ${activeTag === null ? "active" : ""}" onclick="selectTag(null)">
+                Tất cả
             </button>
         `;
-    });
-}
 
-function selectTag(tag) {
-    activeTag = tag === activeTag ? null : tag;
-    currentPage = 1;
-    renderTags();
-    renderProducts();
-}
-
-function getFilteredProducts() {
-    const keyword = searchInput.value.toLowerCase();
-    
-    // Dữ liệu 'products' đã được gán và sử dụng ở đây
-    return products.filter(p =>
-        (activeTag ? p.tags.includes(activeTag) : true) &&
-        (keyword ? p.name.toLowerCase().includes(keyword) : true)
-    );
-}
-
-    // ============================
-    // FETCH FILTERED PRODUCTS
-    // ============================
-    function getFilteredProducts() {
-        const keyword = searchInput.value.toLowerCase();
-
-        return products.filter(p =>
-            (activeTag ? p.tags.includes(activeTag) : true) &&
-            (keyword ? p.name.toLowerCase().includes(keyword) : true)
-        );
+        allTags.forEach(tag => {
+            tagBar.innerHTML += `
+                <button class="tag-btn ${activeTag === tag ? "active" : ""}" onclick="selectTag('${tag}')">
+                    #${tag}
+                </button>
+            `;
+        });
+    }
+    function brandInput(){
+        const allBrands = products.map(p => p.brand);
+        return [...new Set(allBrands)];
+    }
+    function renderBrand(){
+        const selectElement = document.getElementById('brand');
+        const brands = brandInput(); 
+        brands.forEach(brandName => {
+            const optionElement = document.createElement('option');
+            optionElement.value = brandName;
+            optionElement.textContent = brandName; 
+            selectElement.appendChild(optionElement);
+        });
+    }
+    function selectTag(tag) {
+        activeTag = tag === activeTag ? null : tag;
+        currentPage = 1;
+        renderTags();
+        renderProducts();
     }
 
-    // ============================
-    // RENDER PRODUCTS + PAGINATION
-    // ============================
+    function getFilteredProducts() {
+        const keyword = searchInput.value.toLowerCase();
+        return products.filter(p =>
+            (activeTag ? p.tags.includes(activeTag) : true) &&
+            (keyword ? p.name.toLowerCase().includes(keyword) : true) &&
+            (selectedValue ? p.brand === selectedValue : true)
+        );
+    }
     function renderProducts() {
         let filtered = getFilteredProducts();
+        console.log(filtered);
         productList.innerHTML = "";
 
         if (filtered.length === 0) {
@@ -120,10 +104,6 @@ function getFilteredProducts() {
 
         renderPagination(totalPages);
     }
-
-    // ============================
-    // PAGINATION RENDER
-    // ============================
     function renderPagination(totalPages) {
         pagination.innerHTML = "";
 
@@ -141,25 +121,34 @@ function getFilteredProducts() {
         renderProducts();
     }
 
+
+    const brandSelectElement = document.getElementById("brand");
+    brandSelectElement.addEventListener('change',()=>{
+        selectedValue = brandSelectElement.value; 
+        currentPage = 1;
+        renderProducts(); 
+    });
+    
+
     searchInput.addEventListener("input", () => {
         currentPage = 1;
         renderProducts();
     });
 
-loadProducts().then(() => {
-    // 1. Cập nhật allTags từ dữ liệu mới tải về
-    allTags = [...new Set(products.flatMap(p => p.tags))];
+    loadProducts().then(() => {
+        allTags = [...new Set(products.flatMap(p => p.tags))];
+        console.log("Dữ liệu đã tải xong:", products.length, "sản phẩm.");
+        console.log("Danh sách Tags:", allTags);
+        console.log("Danh sách Tags:", brandInput());
+        brandInput();
+        renderBrand();
+        renderTags();
+        renderProducts();
+    });
+    function viewProductDetail(productId) {
+        const productDetail = products.find(p => p.id == productId);
+        const productInfoOut = JSON.stringify(productDetail);
+        localStorage.setItem('selectedProduct',productInfoOut)
+        window.location.href="product_detail.html";
+    }
 
-    console.log("Dữ liệu đã tải xong:", products.length, "sản phẩm.");
-    console.log("Danh sách Tags:", allTags);
-
-    // 2. Chạy các hàm khởi tạo giao diện
-    renderTags();
-    renderProducts();
-});
-function viewProductDetail(productId) {
-    const productDetail = products.find(p => p.id == productId);
-    const productInfoOut = JSON.stringify(productDetail);
-    localStorage.setItem('selectedProduct',productInfoOut)
-    window.location.href="product_detail.html";
-}

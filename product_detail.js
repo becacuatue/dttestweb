@@ -70,14 +70,14 @@ function addToCart() {
     const sizeSelect = document.querySelectorAll(".button")[0];
     const selectedSize = sizeSelect.value;
 
-    if (selectedSize === "Select size") {
+    if (selectedSize === "Chọn Size") {
         alert("Vui lòng chọn size!");
         return;
     }
 
     // Lấy số lượng
     const quantitySelect = document.querySelectorAll(".button")[1];
-    let quantity = quantitySelect.value === "Quantities" ? 1 : parseInt(quantitySelect.value);
+    let quantity = quantitySelect.value === "Số Lượng" ? 1 : parseInt(quantitySelect.value);
 
     // Lấy giỏ hàng từ localStorage
     let cart = JSON.parse(localStorage.getItem("cart")) || [];

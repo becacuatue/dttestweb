@@ -2,7 +2,7 @@
   {
     "id":"26",
     "tags":["Order","Giày"],
-    "brand":["Nike"],
+    "brand":"Nike",
     "subtags":["Jordan 1","Jordan 1 High"],
     "name": "Jordan 1 Travis",
     "img": "img/ảnh giày edited/wsxc1758377851868_0.png",
@@ -23,7 +23,7 @@
   {
     "id":"25",
     "tags":["Order","Giày"],
-    "brand":["Nike"],
+    "brand":"Nike",
     "subtags":["Jordan 1","Jordan 1 High"],
     "name": "Jordan 5",
     "img": "img/ảnh giày edited/wsxc1758377568380_0.png",
@@ -44,7 +44,7 @@
   {
     "id":"24",
     "tags":["Order","Giày"],
-    "brand":["Nike"],
+    "brand":"Nike",
     "subtags":["Jordan 1","Jordan 1 High"],
     "name": "Jordan 5",
     "img": "img/ảnh giày edited/wsxc1758538761468_0.png",
@@ -65,7 +65,7 @@
   {
     "id":"23",
     "tags":["Order","Giày"],
-    "brand":["Nike"],
+    "brand":"Nike",
     "subtags":["Jordan 1","Jordan 1 High"],
     "name": "Jordan 1 Union High",
     "img": "img/ảnh giày edited/wsxc1758378102542_0.png",
@@ -86,6 +86,7 @@
     {
     "id":22,
     "tags":["Sẵn","Quần"],
+    "brand":"Trapstar",
     "name": "Sản phẩm A",
     "img": "img/trapstar/2e9cec10.png",
     "img2":"img/trapstar/78772e74.png",
@@ -103,7 +104,7 @@
   {
     "id":"21",
     "tags":["Order","Giày"],
-    "brand":["Nike"],
+    "brand":"Nike",
     "subtags":["Jordan 1","Jordan 1 High"],
     "name": "Jordan 1 Union High",
     "img": "img/ảnh giày edited/wsxc1758377467014_0.png",
@@ -147,7 +148,7 @@
 {
     "id":"215",
     "tags":["Order","Giày"],
-    "brand":["Nike"],
+    "brand":"Nike",
     "subtags":["Jordan 1","Jordan 1 High"],
     "name": "Jordan 1 Union High",
     "img": "img/ảnh giày edited/wsxc1758377467014_0.png",
@@ -168,7 +169,7 @@
 {
     "id":"214",
     "tags":["Order","Giày"],
-    "brand":["Nike"],
+    "brand":"Nike",
     "subtags":["Jordan 1","Jordan 1 High"],
     "name": "Jordan 1 Union High",
     "img": "img/ảnh giày edited/wsxc1758377467014_0.png",
@@ -189,7 +190,7 @@
 {
     "id":"213",
     "tags":["Order","Giày"],
-    "brand":["Nike"],
+    "brand":"Nike",
     "subtags":["Jordan 1","Jordan 1 High"],
     "name": "Jordan 1 Union High",
     "img": "img/ảnh giày edited/wsxc1758377467014_0.png",
@@ -210,7 +211,7 @@
 {
     "id":"212",
     "tags":["Order","Giày"],
-    "brand":["Nike"],
+    "brand":"Nike",
     "subtags":["Jordan 1","Jordan 1 High"],
     "name": "Jordan 1 Union High",
     "img": "img/ảnh giày edited/wsxc1758377467014_0.png",
