@@ -11,7 +11,7 @@ async function renderRelatedProducts() {
 
     // LỌC sản phẩm liên quan
     const related = allProducts.filter(p =>
-        p.tag === currentProduct.tag && p.id !== currentProduct.id
+        p.brand === currentProduct.brand && p.id !== currentProduct.id
     );
 
     const track = document.getElementById("sliderTrack");
@@ -30,7 +30,7 @@ async function renderRelatedProducts() {
     let position = 0;
     setInterval(() => {
         position -= 300; // khoảng cách mỗi lần dịch
-        if (Math.abs(position) >= track.scrollWidth) {
+        if (Math.abs(position) >= track.scrollWidth - 100) {
             position = 0; // quay lại đầu
         }
         track.style.transform = `translateX(${position}px)`;

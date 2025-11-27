@@ -1,6 +1,7 @@
 [
   { "tags":["Order","Sẵn","Giày","Quần","Áo"],
     "name": "Cách Mua Hàng",
+    "brand":"Nike",
     "img": "img/Ảnh chụp màn hình 2024-12-02 223421.png",
     "img2":"img/ảnh giày edited/wsxc1758377920656_0.png",
     "img3":"img/ảnh giày edited/wsxc1758377938151_0.png",
@@ -15,233 +16,395 @@
     "ratings": {"Độ biền":8, "Chất Lượng":7, "Tương đồng":6, "Độ Hiếm":3 },
     "des": "DT ORDER là shop chuyên order và bán hàng sẵn các sản phẩm giày dép và quần áo chất lượng cao. \nTất cả mặt hàng đều được shop chọn lọc kỹ càng trước khi nhập hoặc đặt, đồng thời trải qua quá trình kiểm tra chi tiết dựa trên nhiều tiêu chí như chất liệu, độ bền, form dáng, mức độ hoàn thiện và tính thẩm mỹ. \nMỗi sản phẩm khi đến tay khách hàng đều đã được đánh giá kỹ lưỡng để đảm bảo chất lượng tốt nhất. \nKhi mua hàng, khách cần liên hệ trực tiếp với chủ shop để được tư vấn. \nĐối với hàng order, khách sẽ cần cọc trước 50%. Hàng sẵn có thể ship COD tùy khu vực. Đặc biệt, chủ shop sẽ freeship tùy tâm trạng :)"
 },
-  {
-    "id":"26",
-    "tags":["Order","Giày"],
-    "brand":"Nike",
-    "subtags":["Jordan 1","Jordan 1 High"],
-    "name": "Jordan 1 Travis",
-    "img": "img/ảnh giày edited/wsxc1758377851868_0.png",
-    "img2":"img/ảnh giày edited/wsxc1758377920656_0.png",
-    "img3":"img/ảnh giày edited/wsxc1758377938151_0.png",
-    "img4":"img/ảnh giày edited/wsxc1758377959316_0.png",
-    "img5":"img/ảnh giày edited/wsxc1758377990196_0.png",
-    "price": 1500000,
-    "size":["36","37","38","39","40","41","42","43","44","45"],
-    "materials": {
-        "Cotton": 60,
-        "Polyester": 30,
-        "Spandex": 10
-    },
-    "ratings": {"Độ biền":8, "Chất Lượng":7, "Tương đồng":6, "Độ Hiếm":3 },
-    "des":"Air Jordan 1 là một biểu tượng văn hóa sát cánh cùng Michael Jordan, nổi tiếng với thiết kế vượt thời gian, sự thoải mái và di sản bóng rổ lừng lẫy.\n\nĐặc điểm chung\nBộ đệm Air-Sole: Tất cả các phiên bản Air Jordan 1 đều được trang bị bộ đệm Air-Sole (hoặc Nike Air technology) ở gót chân hoặc đế giữa, mang lại khả năng hấp thụ lực và sự thoải mái nhẹ nhàng.\nVật liệu cao cấp: Thân giày thường sử dụng kết hợp da thật và các vật liệu dệt khác (ví dụ: da nubuck, vải canvas) để đảm bảo độ bền và vẻ ngoài cao cấp.\nLogo: Các chi tiết logo nổi bật bao gồm dấu Swoosh đặc trưng của Nike ở hai bên, logo Wings (Đôi cánh) trên cổ giày (hoặc gót chân đối với bản Low) và logo Nike Air trên lưỡi gà.\nĐế ngoài: Đế ngoài bằng cao su bền bỉ cung cấp độ bám tốt trên nhiều bề mặt khác nhau. "
-  }, 
-  {
-    "id":"25",
-    "tags":["Order","Giày"],
-    "brand":"Nike",
-    "subtags":["Jordan 1","Jordan 1 High"],
-    "name": "Jordan 5",
-    "img": "img/ảnh giày edited/wsxc1758377568380_0.png",
-    "img2":"img/ảnh giày edited/wsxc1758377568380_1.png",
-    "img3":"img/ảnh giày edited/wsxc1758377568380_3.png",
-    "img4":"img/ảnh giày edited/wsxc1758377568380_5.png",
-    "img5":"img/ảnh giày edited/wsxc1758538761468_6.png",
-    "price": 1500000,
-    "size":["36","37","38","39","40","41","42","43","44","45"],
-    "materials": {
-        "Cotton": 60,
-        "Polyester": 30,
-        "Spandex": 10
-    },
-    "ratings": {"Độ biền":8, "Chất Lượng":7, "Tương đồng":6, "Độ Hiếm":3 },
-    "des":"Air Jordan 1 là một biểu tượng văn hóa sát cánh cùng Michael Jordan, nổi tiếng với thiết kế vượt thời gian, sự thoải mái và di sản bóng rổ lừng lẫy.\n\nĐặc điểm chung\nBộ đệm Air-Sole: Tất cả các phiên bản Air Jordan 1 đều được trang bị bộ đệm Air-Sole (hoặc Nike Air technology) ở gót chân hoặc đế giữa, mang lại khả năng hấp thụ lực và sự thoải mái nhẹ nhàng.\nVật liệu cao cấp: Thân giày thường sử dụng kết hợp da thật và các vật liệu dệt khác (ví dụ: da nubuck, vải canvas) để đảm bảo độ bền và vẻ ngoài cao cấp.\nLogo: Các chi tiết logo nổi bật bao gồm dấu Swoosh đặc trưng của Nike ở hai bên, logo Wings (Đôi cánh) trên cổ giày (hoặc gót chân đối với bản Low) và logo Nike Air trên lưỡi gà.\nĐế ngoài: Đế ngoài bằng cao su bền bỉ cung cấp độ bám tốt trên nhiều bề mặt khác nhau. "
-  }, 
-  {
-    "id":"24",
-    "tags":["Order","Giày"],
-    "brand":"Nike",
-    "subtags":["Jordan 1","Jordan 1 High"],
-    "name": "Jordan 5",
-    "img": "img/ảnh giày edited/wsxc1758538761468_0.png",
-    "img2":"img/ảnh giày edited/wsxc1758538761468_1.png",
-    "img3":"img/ảnh giày edited/wsxc1758538761468_2.png",
-    "img4":"img/ảnh giày edited/wsxc1758538761468_3.png",
-    "img5":"img/ảnh giày edited/wsxc1758538761468_6.png",
-    "price": 1500000,
-    "size":["36","37","38","39","40","41","42","43","44","45"],
-    "materials": {
-        "Cotton": 60,
-        "Polyester": 30,
-        "Spandex": 10
-    },
-    "ratings": {"Độ biền":8, "Chất Lượng":7, "Tương đồng":6, "Độ Hiếm":3 },
-    "des":"Air Jordan 1 là một biểu tượng văn hóa sát cánh cùng Michael Jordan, nổi tiếng với thiết kế vượt thời gian, sự thoải mái và di sản bóng rổ lừng lẫy.\n\nĐặc điểm chung\nBộ đệm Air-Sole: Tất cả các phiên bản Air Jordan 1 đều được trang bị bộ đệm Air-Sole (hoặc Nike Air technology) ở gót chân hoặc đế giữa, mang lại khả năng hấp thụ lực và sự thoải mái nhẹ nhàng.\nVật liệu cao cấp: Thân giày thường sử dụng kết hợp da thật và các vật liệu dệt khác (ví dụ: da nubuck, vải canvas) để đảm bảo độ bền và vẻ ngoài cao cấp.\nLogo: Các chi tiết logo nổi bật bao gồm dấu Swoosh đặc trưng của Nike ở hai bên, logo Wings (Đôi cánh) trên cổ giày (hoặc gót chân đối với bản Low) và logo Nike Air trên lưỡi gà.\nĐế ngoài: Đế ngoài bằng cao su bền bỉ cung cấp độ bám tốt trên nhiều bề mặt khác nhau. "
-  }, 
-  {
-    "id":"23",
-    "tags":["Order","Giày"],
-    "brand":"Nike",
-    "subtags":["Jordan 1","Jordan 1 High"],
-    "name": "Jordan 1 Union High",
-    "img": "img/ảnh giày edited/wsxc1758378102542_0.png",
-    "img2":"img/ảnh giày edited/wsxc1758378102542_1.png",
-    "img3":"img/ảnh giày edited/wsxc1758378102542_2.png",
-    "img4":"img/ảnh giày edited/wsxc1758378102542_3.png",
-    "img5":"img/ảnh giày edited/wsxc1758378102542_4.png",
-    "price": 1500000,
-    "size":["36","37","38","39","40","41","42","43","44","45"],
-    "materials": {
-        "Cotton": 60,
-        "Polyester": 30,
-        "Spandex": 10
-    },
-    "ratings": {"Độ biền":8, "Chất Lượng":7, "Tương đồng":6, "Độ Hiếm":3 },
-    "des":"Air Jordan 1 là một biểu tượng văn hóa sát cánh cùng Michael Jordan, nổi tiếng với thiết kế vượt thời gian, sự thoải mái và di sản bóng rổ lừng lẫy.\n\nĐặc điểm chung\nBộ đệm Air-Sole: Tất cả các phiên bản Air Jordan 1 đều được trang bị bộ đệm Air-Sole (hoặc Nike Air technology) ở gót chân hoặc đế giữa, mang lại khả năng hấp thụ lực và sự thoải mái nhẹ nhàng.\nVật liệu cao cấp: Thân giày thường sử dụng kết hợp da thật và các vật liệu dệt khác (ví dụ: da nubuck, vải canvas) để đảm bảo độ bền và vẻ ngoài cao cấp.\nLogo: Các chi tiết logo nổi bật bao gồm dấu Swoosh đặc trưng của Nike ở hai bên, logo Wings (Đôi cánh) trên cổ giày (hoặc gót chân đối với bản Low) và logo Nike Air trên lưỡi gà.\nĐế ngoài: Đế ngoài bằng cao su bền bỉ cung cấp độ bám tốt trên nhiều bề mặt khác nhau. "
-  }, 
-    {
-    "id":22,
-    "tags":["Sẵn","Quần"],
-    "brand":"Trapstar",
-    "name": "Sản phẩm A",
-    "img": "img/trapstar/2e9cec10.png",
-    "img2":"img/trapstar/78772e74.png",
-    "img3":"img/trapstar/a4add6b2.png",
-    "img4":"img/trapstar/ac3cf795.png",
-    "img5":"img/trapstar/17442df7.png",
-    "price": 1500000,
-    "size":["XL","L","M","M"],
-    "ratings": {"Độ biền":8, "Chất Lượng":7, "Tương đồng":6, "Độ Hiếm":3 },
-    "materials": {
-        "Cotton": 60,
-        "Polyester": 40
-    }
-  },  
-  {
-    "id":"21",
-    "tags":["Order","Giày"],
-    "brand":"Nike",
-    "subtags":["Jordan 1","Jordan 1 High"],
-    "name": "Jordan 1 Union High",
-    "img": "img/ảnh giày edited/wsxc1758377467014_0.png",
-    "img2":"img/ảnh giày edited/wsxc1758377467014_1.png",
-    "img3":"img/ảnh giày edited/wsxc1758377467014_2.png",
-    "img4":"img/ảnh giày edited/wsxc1758377467014_3.png",
-    "img5":"img/ảnh giày edited/wsxc1758377467014_4.png",
-    "price": 1500000,
-    "size":["36","37","38","39","40","41","42","43","44","45"],
-    "materials": {
-        "Cotton": 60,
-        "Polyester": 30,
-        "Spandex": 10
-    },
-    "ratings": {"Độ biền":8, "Chất Lượng":7, "Tương đồng":6, "Độ Hiếm":3 },
-    "des":"Air Jordan 1 là một biểu tượng văn hóa sát cánh cùng Michael Jordan, nổi tiếng với thiết kế vượt thời gian, sự thoải mái và di sản bóng rổ lừng lẫy.\n\nĐặc điểm chung\nBộ đệm Air-Sole: Tất cả các phiên bản Air Jordan 1 đều được trang bị bộ đệm Air-Sole (hoặc Nike Air technology) ở gót chân hoặc đế giữa, mang lại khả năng hấp thụ lực và sự thoải mái nhẹ nhàng.\nVật liệu cao cấp: Thân giày thường sử dụng kết hợp da thật và các vật liệu dệt khác (ví dụ: da nubuck, vải canvas) để đảm bảo độ bền và vẻ ngoài cao cấp.\nLogo: Các chi tiết logo nổi bật bao gồm dấu Swoosh đặc trưng của Nike ở hai bên, logo Wings (Đôi cánh) trên cổ giày (hoặc gót chân đối với bản Low) và logo Nike Air trên lưỡi gà.\nĐế ngoài: Đế ngoài bằng cao su bền bỉ cung cấp độ bám tốt trên nhiều bề mặt khác nhau. "
-  }, 
-  {
-    "id":"19",
+{
+    "id":"20",
     "tags":["Order","Áo"],
-    "name": "Sản phẩm A",
-    "img": "img/trapstar/2e9cec10.png",
-    "img2":"",
-    "img3":"",
-    "img4":"",
-    "img5":"",
-    "price": 1500000,
-    "star":"⭐⭐⭐⭐"
-  },  {
-    "id":"18",
-    "tags":["Áo"],
-    "name": "Sản phẩm A",
-    "img": "img/trapstar/2e9cec10.png",
-    "img2":"",
-    "img3":"",
-    "img4":"",
-    "img5":"",
-    "price": 1500000,
-    "star":"⭐⭐⭐⭐"
+    "brand":"Corteiz",
+    "subtags":["Corteiz","Puffer"],
+    "name": "Corteiz Puffer Jacket",
+    "img": "img/id20/3c7517e8.jpg",
+    "img2":"img/id20/f71af99f.jpg",
+    "img3":"img/id20/637af033.jpg",
+    "img4":"img/id20/eda4f080.jpg",
+    "img5":"img/id20/e102c1b6.jpg",
+    "price": 1150000,
+    "size":["XL","L","M","S"],
+    "materials": {
+     "Nylon/Polyester.":60,
+     "Lông Vũ":40
+    },
+    "ratings": {"Độ biền":9, "Chất Lượng":9, "Tương đồng":8, "Độ Hiếm":5 },
+    "des":"Chất liệu & thiết kế của áo phao Corteiz\nDưới đây là chung các đặc điểm mà áo phao / puffer của Corteiz thường có:\n\nVỏ ngoài (outer shell) — thường bằng nylon hoặc chất liệu chịu nước / chống gió, giúp bảo vệ khỏi gió, mưa nhẹ, thời tiết lạnh. \n\nLớp đệm / padding / insulation (lót giữ ấm): áo phao Corteiz được thiết kế để giữ nhiệt — phù hợp khi trời lạnh, thời tiết mùa đông hoặc lạnh gió. \nForm / phom áo — thường hơi oversize / roomy / relaxed fit, để mặc thoải mái, dễ layering (mặc trong áo phông/hoodie), phù hợp phong cách streetwear.\nChi tiết thiết kế streetwear: logos, tên thương hiệu, có thể kèm túi, khóa/cúc, kiểu dáng hiện đại — khiến jacket vừa thời trang vừa “cool ngầu” khi phối đồ đi chơi, dạo phố. \nKhả năng chống gió / hơi nước / bụi bẩn nhẹ — nhiều mẫu puffer của Corteiz được thiết kế để “kháng gió, bền vững, giữ ấm”, phù hợp thời tiết lạnh, ẩm, gió — giúp người mặc dễ chịu hơn khi di chuyển ngoài trời."
   },
 {
-    "id":"215",
-    "tags":["Order","Giày"],
-    "brand":"Nike",
-    "subtags":["Jordan 1","Jordan 1 High"],
-    "name": "Jordan 1 Union High",
-    "img": "img/ảnh giày edited/wsxc1758377467014_0.png",
-    "img2":"img/ảnh giày edited/wsxc1758377467014_1.png",
-    "img3":"img/ảnh giày edited/wsxc1758377467014_2.png",
-    "img4":"img/ảnh giày edited/wsxc1758377467014_3.png",
-    "img5":"img/ảnh giày edited/wsxc1758377467014_4.png",
-    "price": 1500000,
-    "size":["36","37","38","39","40","41","42","43","44","45"],
+    "id":"19",
+    "tags":["Order","Áo"],
+    "brand":"Corteiz",
+    "subtags":["Corteiz","Puffer"],
+    "name": "Corteiz Puffer Jacket",
+    "img": "img/id19/601dbd44.jpg",
+    "img2":"img/id19/5d863753.jpg",
+    "img3":"img/id19/35a42fd1.jpg",
+    "img4":"img/id19/afd84576.jpg",
+    "img5":"img/id19/35a42fd1.jpg",
+    "price": 1150000,
+    "size":["XL","L","M","S"],
     "materials": {
-        "Cotton": 60,
-        "Polyester": 30,
-        "Spandex": 10
+     "Nylon/Polyester.":60,
+     "Lông Vũ":40
     },
-    "ratings": {"Độ biền":8, "Chất Lượng":7, "Tương đồng":6, "Độ Hiếm":3 },
-    "des":"Air Jordan 1 là một biểu tượng văn hóa sát cánh cùng Michael Jordan, nổi tiếng với thiết kế vượt thời gian, sự thoải mái và di sản bóng rổ lừng lẫy.\n\nĐặc điểm chung\nBộ đệm Air-Sole: Tất cả các phiên bản Air Jordan 1 đều được trang bị bộ đệm Air-Sole (hoặc Nike Air technology) ở gót chân hoặc đế giữa, mang lại khả năng hấp thụ lực và sự thoải mái nhẹ nhàng.\nVật liệu cao cấp: Thân giày thường sử dụng kết hợp da thật và các vật liệu dệt khác (ví dụ: da nubuck, vải canvas) để đảm bảo độ bền và vẻ ngoài cao cấp.\nLogo: Các chi tiết logo nổi bật bao gồm dấu Swoosh đặc trưng của Nike ở hai bên, logo Wings (Đôi cánh) trên cổ giày (hoặc gót chân đối với bản Low) và logo Nike Air trên lưỡi gà.\nĐế ngoài: Đế ngoài bằng cao su bền bỉ cung cấp độ bám tốt trên nhiều bề mặt khác nhau. "
-  }, 
+    "ratings": {"Độ biền":9, "Chất Lượng":9, "Tương đồng":8, "Độ Hiếm":5 },
+    "des":"Chất liệu & thiết kế của áo phao Corteiz\nDưới đây là chung các đặc điểm mà áo phao / puffer của Corteiz thường có:\n\nVỏ ngoài (outer shell) — thường bằng nylon hoặc chất liệu chịu nước / chống gió, giúp bảo vệ khỏi gió, mưa nhẹ, thời tiết lạnh. \n\nLớp đệm / padding / insulation (lót giữ ấm): áo phao Corteiz được thiết kế để giữ nhiệt — phù hợp khi trời lạnh, thời tiết mùa đông hoặc lạnh gió. \nForm / phom áo — thường hơi oversize / roomy / relaxed fit, để mặc thoải mái, dễ layering (mặc trong áo phông/hoodie), phù hợp phong cách streetwear.\nChi tiết thiết kế streetwear: logos, tên thương hiệu, có thể kèm túi, khóa/cúc, kiểu dáng hiện đại — khiến jacket vừa thời trang vừa “cool ngầu” khi phối đồ đi chơi, dạo phố. \nKhả năng chống gió / hơi nước / bụi bẩn nhẹ — nhiều mẫu puffer của Corteiz được thiết kế để “kháng gió, bền vững, giữ ấm”, phù hợp thời tiết lạnh, ẩm, gió — giúp người mặc dễ chịu hơn khi di chuyển ngoài trời."
+  },
 {
-    "id":"214",
-    "tags":["Order","Giày"],
-    "brand":"Nike",
-    "subtags":["Jordan 1","Jordan 1 High"],
-    "name": "Jordan 1 Union High",
-    "img": "img/ảnh giày edited/wsxc1758377467014_0.png",
-    "img2":"img/ảnh giày edited/wsxc1758377467014_1.png",
-    "img3":"img/ảnh giày edited/wsxc1758377467014_2.png",
-    "img4":"img/ảnh giày edited/wsxc1758377467014_3.png",
-    "img5":"img/ảnh giày edited/wsxc1758377467014_4.png",
-    "price": 1500000,
-    "size":["36","37","38","39","40","41","42","43","44","45"],
+    "id":"18",
+    "tags":["Order","Áo"],
+    "brand":"Corteiz",
+    "subtags":["Corteiz","Hoddie"],
+    "name": "Corteiz Hoddie",
+    "img": "img/id18/e0a02185.jpg",
+    "img2":"img/id18/d4dbf41a.jpg",
+    "img3":"img/id18/b7f137d3.jpg",
+    "img4":"img/id18/4cd670a1.jpg",
+    "img5":"img/id18/b0eb3a58.jpg",
+    "price": 950000,
+    "size":["XL","L","M","S"],
     "materials": {
-        "Cotton": 60,
-        "Polyester": 30,
-        "Spandex": 10
+     "Cotton":100
     },
-    "ratings": {"Độ biền":8, "Chất Lượng":7, "Tương đồng":6, "Độ Hiếm":3 },
-    "des":"Air Jordan 1 là một biểu tượng văn hóa sát cánh cùng Michael Jordan, nổi tiếng với thiết kế vượt thời gian, sự thoải mái và di sản bóng rổ lừng lẫy.\n\nĐặc điểm chung\nBộ đệm Air-Sole: Tất cả các phiên bản Air Jordan 1 đều được trang bị bộ đệm Air-Sole (hoặc Nike Air technology) ở gót chân hoặc đế giữa, mang lại khả năng hấp thụ lực và sự thoải mái nhẹ nhàng.\nVật liệu cao cấp: Thân giày thường sử dụng kết hợp da thật và các vật liệu dệt khác (ví dụ: da nubuck, vải canvas) để đảm bảo độ bền và vẻ ngoài cao cấp.\nLogo: Các chi tiết logo nổi bật bao gồm dấu Swoosh đặc trưng của Nike ở hai bên, logo Wings (Đôi cánh) trên cổ giày (hoặc gót chân đối với bản Low) và logo Nike Air trên lưỡi gà.\nĐế ngoài: Đế ngoài bằng cao su bền bỉ cung cấp độ bám tốt trên nhiều bề mặt khác nhau. "
-  }, 
+    "ratings": {"Độ biền":8, "Chất Lượng":9, "Tương đồng":8, "Độ Hiếm":5 },
+    "des":"Phong cách & cảm giác\n\nHoodie của Corteiz có phong cách streetwear rõ rệt — thường là oversize / relaxed fit, dễ phối đồ với quần jeans, cargo, jogger hay quần streetwear. \n\nKhi mặc mang lại cảm giác “urban casual”: vừa thoải mái, vừa thời trang, phù hợp đi đường phố, đi học, đi chơi, đi dạo. \n\nChất liệu & thiết kế\n\nHoodie thường được làm từ cotton hoặc cotton pha — mềm, thoáng, và đủ bền để mặc hàng ngày. \n\nCác đường may, cổ tay, gấu áo, nắp túi (nếu có) được gia cố chắc chắn — để Hoodie không nhanh hỏng sau nhiều lần mặc & giặt. \n\nThích hợp cho mùa thu / xuân / đông nhẹ — hoodie giúp giữ ấm cơ bản, hoặc làm lớp ngoài (layer) trong thời tiết se lạnh."
+  },
 {
-    "id":"213",
-    "tags":["Order","Giày"],
-    "brand":"Nike",
-    "subtags":["Jordan 1","Jordan 1 High"],
-    "name": "Jordan 1 Union High",
-    "img": "img/ảnh giày edited/wsxc1758377467014_0.png",
-    "img2":"img/ảnh giày edited/wsxc1758377467014_1.png",
-    "img3":"img/ảnh giày edited/wsxc1758377467014_2.png",
-    "img4":"img/ảnh giày edited/wsxc1758377467014_3.png",
-    "img5":"img/ảnh giày edited/wsxc1758377467014_4.png",
-    "price": 1500000,
-    "size":["36","37","38","39","40","41","42","43","44","45"],
+    "id":"17",
+    "tags":["Order","Quần"],
+    "brand":"Corteiz",
+    "subtags":["Corteiz","Quần"],
+    "name": "Corteiz Sweat Pan",
+    "img": "img/id17/2148c667.jpg",
+    "img2":"img/id17/3f0ad802.jpg",
+    "img3":"img/id17/37908de8.jpg",
+    "img4":"img/id17/4f50667f.jpg",
+    "img5":"img/id17/d261d647.jpg",
+    "price": 900000,
+    "size":["XL","L","M","S"],
     "materials": {
-        "Cotton": 60,
-        "Polyester": 30,
-        "Spandex": 10
+     "Cotton":100
     },
-    "ratings": {"Độ biền":8, "Chất Lượng":7, "Tương đồng":6, "Độ Hiếm":3 },
-    "des":"Air Jordan 1 là một biểu tượng văn hóa sát cánh cùng Michael Jordan, nổi tiếng với thiết kế vượt thời gian, sự thoải mái và di sản bóng rổ lừng lẫy.\n\nĐặc điểm chung\nBộ đệm Air-Sole: Tất cả các phiên bản Air Jordan 1 đều được trang bị bộ đệm Air-Sole (hoặc Nike Air technology) ở gót chân hoặc đế giữa, mang lại khả năng hấp thụ lực và sự thoải mái nhẹ nhàng.\nVật liệu cao cấp: Thân giày thường sử dụng kết hợp da thật và các vật liệu dệt khác (ví dụ: da nubuck, vải canvas) để đảm bảo độ bền và vẻ ngoài cao cấp.\nLogo: Các chi tiết logo nổi bật bao gồm dấu Swoosh đặc trưng của Nike ở hai bên, logo Wings (Đôi cánh) trên cổ giày (hoặc gót chân đối với bản Low) và logo Nike Air trên lưỡi gà.\nĐế ngoài: Đế ngoài bằng cao su bền bỉ cung cấp độ bám tốt trên nhiều bề mặt khác nhau. "
-  }, 
+    "ratings": {"Độ biền":10, "Chất Lượng":10, "Tương đồng":10, "Độ Hiếm":9 },
+    "des":"Phong cách & cảm giác\n\nHoodie của Corteiz có phong cách streetwear rõ rệt — thường là oversize / relaxed fit, dễ phối đồ với quần jeans, cargo, jogger hay quần streetwear. \n\nKhi mặc mang lại cảm giác “urban casual”: vừa thoải mái, vừa thời trang, phù hợp đi đường phố, đi học, đi chơi, đi dạo. \n\nChất liệu & thiết kế\n\nHoodie thường được làm từ cotton hoặc cotton pha — mềm, thoáng, và đủ bền để mặc hàng ngày. \n\nCác đường may, cổ tay, gấu áo, nắp túi (nếu có) được gia cố chắc chắn — để Hoodie không nhanh hỏng sau nhiều lần mặc & giặt. \n\nThích hợp cho mùa thu / xuân / đông nhẹ — hoodie giúp giữ ấm cơ bản, hoặc làm lớp ngoài (layer) trong thời tiết se lạnh."
+  },
 {
-    "id":"212",
+    "id":"16",
+    "tags":["Order","Áo"],
+    "brand":"Corteiz",
+    "subtags":["Corteiz","Hoddie"],
+    "name": "Corteiz Hoddie",
+    "img": "img/id16/0ce2c47a.jpg",
+    "img2":"img/id16/bb43c361.jpg",
+    "img3":"img/id16/1b68d73e.jpg",
+    "img4":"img/id16/6148aa28.jpg",
+    "img5":"img/id16/abd03c23.jpg",
+    "price": 950000,
+    "size":["XL","L","M","S"],
+    "materials": {
+     "Cotton":100
+    },
+    "ratings": {"Độ biền":8, "Chất Lượng":9, "Tương đồng":8, "Độ Hiếm":5 },
+    "des":"Phong cách & cảm giác\n\nHoodie của Corteiz có phong cách streetwear rõ rệt — thường là oversize / relaxed fit, dễ phối đồ với quần jeans, cargo, jogger hay quần streetwear. \n\nKhi mặc mang lại cảm giác “urban casual”: vừa thoải mái, vừa thời trang, phù hợp đi đường phố, đi học, đi chơi, đi dạo. \n\nChất liệu & thiết kế\n\nHoodie thường được làm từ cotton hoặc cotton pha — mềm, thoáng, và đủ bền để mặc hàng ngày. \n\nCác đường may, cổ tay, gấu áo, nắp túi (nếu có) được gia cố chắc chắn — để Hoodie không nhanh hỏng sau nhiều lần mặc & giặt. \n\nThích hợp cho mùa thu / xuân / đông nhẹ — hoodie giúp giữ ấm cơ bản, hoặc làm lớp ngoài (layer) trong thời tiết se lạnh."
+  },
+{
+    "id":"15",
+    "tags":["Order","Áo"],
+    "brand":"Corteiz",
+    "subtags":["Corteiz","Hoddie"],
+    "name": "Corteiz Hoddie",
+    "img": "img/id15/e290a0b2.jpg",
+    "img2":"img/id15/cecec017.jpg",
+    "img3":"img/id15/f58ae6f3.jpg",
+    "img4":"img/id15/33f002d8.jpg",
+    "img5":"img/id15/50d34c5c.jpg",
+    "price": 950000,
+    "size":["XL","L","M","S"],
+    "materials": {
+     "Cotton":100
+    },
+    "ratings": {"Độ biền":8, "Chất Lượng":9, "Tương đồng":8, "Độ Hiếm":5 },
+    "des":"Phong cách & cảm giác\n\nHoodie của Corteiz có phong cách streetwear rõ rệt — thường là oversize / relaxed fit, dễ phối đồ với quần jeans, cargo, jogger hay quần streetwear. \n\nKhi mặc mang lại cảm giác “urban casual”: vừa thoải mái, vừa thời trang, phù hợp đi đường phố, đi học, đi chơi, đi dạo. \n\nChất liệu & thiết kế\n\nHoodie thường được làm từ cotton hoặc cotton pha — mềm, thoáng, và đủ bền để mặc hàng ngày. \n\nCác đường may, cổ tay, gấu áo, nắp túi (nếu có) được gia cố chắc chắn — để Hoodie không nhanh hỏng sau nhiều lần mặc & giặt. \n\nThích hợp cho mùa thu / xuân / đông nhẹ — hoodie giúp giữ ấm cơ bản, hoặc làm lớp ngoài (layer) trong thời tiết se lạnh."
+  },
+{
+    "id":"14",
+    "tags":["Order","Áo"],
+    "brand":"Corteiz",
+    "subtags":["Corteiz","Hoddie"],
+    "name": "Corteiz Hoddie",
+    "img": "img/id14/73e13590.jpg",
+    "img2":"img/id14/e4f67386.jpg",
+    "img3":"img/id14/9e51c384.jpg",
+    "img4":"img/id14/b65ba8a6.jpg",
+    "img5":"img/id14/68520d68.jpg",
+    "price": 950000,
+    "size":["XL","L","M","S"],
+    "materials": {
+     "Cotton":100
+    },
+    "ratings": {"Độ biền":8, "Chất Lượng":9, "Tương đồng":8, "Độ Hiếm":5 },
+    "des":"Phong cách & cảm giác\n\nHoodie của Corteiz có phong cách streetwear rõ rệt — thường là oversize / relaxed fit, dễ phối đồ với quần jeans, cargo, jogger hay quần streetwear. \n\nKhi mặc mang lại cảm giác “urban casual”: vừa thoải mái, vừa thời trang, phù hợp đi đường phố, đi học, đi chơi, đi dạo. \n\nChất liệu & thiết kế\n\nHoodie thường được làm từ cotton hoặc cotton pha — mềm, thoáng, và đủ bền để mặc hàng ngày. \n\nCác đường may, cổ tay, gấu áo, nắp túi (nếu có) được gia cố chắc chắn — để Hoodie không nhanh hỏng sau nhiều lần mặc & giặt. \n\nThích hợp cho mùa thu / xuân / đông nhẹ — hoodie giúp giữ ấm cơ bản, hoặc làm lớp ngoài (layer) trong thời tiết se lạnh."
+  },
+{
+    "id":"13",
+    "tags":["Order","Áo"],
+    "brand":"Corteiz",
+    "subtags":["Corteiz","Puffer"],
+    "name": "Corteiz Puffer Jacket",
+    "img": "img/id13/c39e39f6.jpg",
+    "img2":"img/id13/528c579a.jpg",
+    "img3":"img/id13/f7ca6ac1.jpg",
+    "img4":"img/id13/2a7a5bd9.jpg",
+    "img5":"img/id13/1cfa43a0.jpg",
+    "price": 1250000,
+    "size":["XL","L","M","S"],
+    "materials": {
+     "Nylon/Polyester.":60,
+     "Lông Vũ":40
+    },
+    "ratings": {"Độ biền":9, "Chất Lượng":9, "Tương đồng":10, "Độ Hiếm":5 },
+    "des":"Chất liệu & thiết kế của áo phao Corteiz\nDưới đây là chung các đặc điểm mà áo phao / puffer của Corteiz thường có:\n\nVỏ ngoài (outer shell) — thường bằng nylon hoặc chất liệu chịu nước / chống gió, giúp bảo vệ khỏi gió, mưa nhẹ, thời tiết lạnh. \n\nLớp đệm / padding / insulation (lót giữ ấm): áo phao Corteiz được thiết kế để giữ nhiệt — phù hợp khi trời lạnh, thời tiết mùa đông hoặc lạnh gió. \nForm / phom áo — thường hơi oversize / roomy / relaxed fit, để mặc thoải mái, dễ layering (mặc trong áo phông/hoodie), phù hợp phong cách streetwear.\nChi tiết thiết kế streetwear: logos, tên thương hiệu, có thể kèm túi, khóa/cúc, kiểu dáng hiện đại — khiến jacket vừa thời trang vừa “cool ngầu” khi phối đồ đi chơi, dạo phố. \nKhả năng chống gió / hơi nước / bụi bẩn nhẹ — nhiều mẫu puffer của Corteiz được thiết kế để “kháng gió, bền vững, giữ ấm”, phù hợp thời tiết lạnh, ẩm, gió — giúp người mặc dễ chịu hơn khi di chuyển ngoài trời."
+  },
+{
+    "id":"12",
+    "tags":["Order","Áo"],
+    "brand":"Corteiz",
+    "subtags":["Corteiz","Puffer"],
+    "name": "Corteiz Puffer Jacket",
+    "img": "img/id12/f744df67.jpg",
+    "img2":"img/id12/79f84b17.jpg",
+    "img3":"img/id12/2c8d5a6b.jpg",
+    "img4":"img/id12/1f6c6ed2.jpg",
+    "img5":"img/id12/0d9e4c4a.jpg",
+    "price": 1250000,
+    "size":["XL","L","M","S"],
+    "materials": {
+     "Nylon/Polyester.":60,
+     "Lông Vũ":40
+    },
+    "ratings": {"Độ biền":9, "Chất Lượng":9, "Tương đồng":10, "Độ Hiếm":5 },
+    "des":"Chất liệu & thiết kế của áo phao Corteiz\nDưới đây là chung các đặc điểm mà áo phao / puffer của Corteiz thường có:\n\nVỏ ngoài (outer shell) — thường bằng nylon hoặc chất liệu chịu nước / chống gió, giúp bảo vệ khỏi gió, mưa nhẹ, thời tiết lạnh. \n\nLớp đệm / padding / insulation (lót giữ ấm): áo phao Corteiz được thiết kế để giữ nhiệt — phù hợp khi trời lạnh, thời tiết mùa đông hoặc lạnh gió. \nForm / phom áo — thường hơi oversize / roomy / relaxed fit, để mặc thoải mái, dễ layering (mặc trong áo phông/hoodie), phù hợp phong cách streetwear.\nChi tiết thiết kế streetwear: logos, tên thương hiệu, có thể kèm túi, khóa/cúc, kiểu dáng hiện đại — khiến jacket vừa thời trang vừa “cool ngầu” khi phối đồ đi chơi, dạo phố. \nKhả năng chống gió / hơi nước / bụi bẩn nhẹ — nhiều mẫu puffer của Corteiz được thiết kế để “kháng gió, bền vững, giữ ấm”, phù hợp thời tiết lạnh, ẩm, gió — giúp người mặc dễ chịu hơn khi di chuyển ngoài trời."
+  },
+{
+    "id":"11",
+    "tags":["Order","Áo"],
+    "brand":"Corteiz",
+    "subtags":["Corteiz","Puffer"],
+    "name": "Corteiz Puffer Jacket",
+    "img": "img/id11/80564ae1.jpg",
+    "img2":"img/id11/aed8d24f.jpg",
+    "img3":"img/id11/7d5e6d38.jpg",
+    "img4":"img/id11/9f0ad9f2.jpg",
+    "img5":"img/id11/5af573df.jpg",
+    "price": 1250000,
+    "size":["XL","L","M","S"],
+    "materials": {
+     "Nylon/Polyester.":60,
+     "Lông Vũ":40
+    },
+    "ratings": {"Độ biền":9, "Chất Lượng":9, "Tương đồng":10, "Độ Hiếm":5 },
+    "des":"Chất liệu & thiết kế của áo phao Corteiz\nDưới đây là chung các đặc điểm mà áo phao / puffer của Corteiz thường có:\n\nVỏ ngoài (outer shell) — thường bằng nylon hoặc chất liệu chịu nước / chống gió, giúp bảo vệ khỏi gió, mưa nhẹ, thời tiết lạnh. \n\nLớp đệm / padding / insulation (lót giữ ấm): áo phao Corteiz được thiết kế để giữ nhiệt — phù hợp khi trời lạnh, thời tiết mùa đông hoặc lạnh gió. \nForm / phom áo — thường hơi oversize / roomy / relaxed fit, để mặc thoải mái, dễ layering (mặc trong áo phông/hoodie), phù hợp phong cách streetwear.\nChi tiết thiết kế streetwear: logos, tên thương hiệu, có thể kèm túi, khóa/cúc, kiểu dáng hiện đại — khiến jacket vừa thời trang vừa “cool ngầu” khi phối đồ đi chơi, dạo phố. \nKhả năng chống gió / hơi nước / bụi bẩn nhẹ — nhiều mẫu puffer của Corteiz được thiết kế để “kháng gió, bền vững, giữ ấm”, phù hợp thời tiết lạnh, ẩm, gió — giúp người mặc dễ chịu hơn khi di chuyển ngoài trời."
+  },
+{
+    "id":"10",
+    "tags":["Order","Áo"],
+    "brand":"Valley",
+    "subtags":["Valley","Hoddie"],
+    "name": "Valley Vintage Hoddie",
+    "img": "img/id10/e3caeaa2.jpg",
+    "img2":"img/id10/e50bcd6f.jpg",
+    "img3":"img/id10/99ad0149.jpg",
+    "img4":"img/id10/546c4bf7.jpg",
+    "img5":"img/id10/18780415.jpg",
+    "price": 920000,
+    "size":["XL","L","M","S"],
+    "materials": {
+      "Cotton":100
+    },
+    "ratings": {"Độ biền":9, "Chất Lượng":9, "Tương đồng":10, "Độ Hiếm":5 },
+    "des":"Valley Apparel là thương hiệu Mỹ, chuyên sản xuất các loại flight jacket và military outerwear cho quân đội Mỹ trước khi mở rộng sang thị trường dân dụng. \n\nDo xuất phát từ quân đội, các áo khoác của Valley thường có phong cách cứng cáp, bền bỉ, thực dụng, thiên về bảo vệ, giữ ấm, chống gió — phù hợp với điều kiện khắc nghiệt.\n\nNgoài ra, chúng cũng được ưa chuộng trong văn hoá “streetwear / casual” nhờ thiết kế cổ điển, mang nét “quân đội — vintage” dễ phối đồ."
+  },
+{
+    "id":"9",
+    "tags":["Order","Áo"],
+    "brand":"Valley",
+    "subtags":["Valley","Hoddie"],
+    "name": "Valley Vintage Hoddie",
+    "img": "img/id9/788660a8.jpg",
+    "img2":"img/id9/8516bd35.jpg",
+    "img3":"img/id9/765000ac.jpg",
+    "img4":"img/id9/fe0dda52.jpg",
+    "img5":"img/id9/b52a49ea.jpg",
+    "price": 920000,
+    "size":["XL","L","M","S"],
+    "materials": {
+      "Cotton":100
+    },
+    "ratings": {"Độ biền":9, "Chất Lượng":9, "Tương đồng":10, "Độ Hiếm":8 },
+    "des":"Valley Apparel là thương hiệu Mỹ, chuyên sản xuất các loại flight jacket và military outerwear cho quân đội Mỹ trước khi mở rộng sang thị trường dân dụng. \n\nDo xuất phát từ quân đội, các áo khoác của Valley thường có phong cách cứng cáp, bền bỉ, thực dụng, thiên về bảo vệ, giữ ấm, chống gió — phù hợp với điều kiện khắc nghiệt.\n\nNgoài ra, chúng cũng được ưa chuộng trong văn hoá “streetwear / casual” nhờ thiết kế cổ điển, mang nét “quân đội — vintage” dễ phối đồ."
+  },
+{
+    "id":"8",
+    "tags":["Order","Áo"],
+    "brand":"Valley",
+    "subtags":["Valley","T-Shirt"],
+    "name": "Valley Vintage Tee",
+    "img": "img/id8/5d09f7b9.jpg",
+    "img2":"img/id8/34d0204a.jpg",
+    "img3":"img/id8/33b28f48.jpg",
+    "img4":"img/id8/1de2c25f.jpg",
+    "img5":"img/id8/45523f77.jpg",
+    "price": 800000,
+    "size":["XL","L","M","S"],
+    "materials": {
+      "Cotton":100
+    },
+    "ratings": {"Độ biền":9, "Chất Lượng":9, "Tương đồng":10, "Độ Hiếm":8 },
+    "des":"Valley Apparel là thương hiệu Mỹ, chuyên sản xuất các loại flight jacket và military outerwear cho quân đội Mỹ trước khi mở rộng sang thị trường dân dụng. \n\nDo xuất phát từ quân đội, các áo khoác của Valley thường có phong cách cứng cáp, bền bỉ, thực dụng, thiên về bảo vệ, giữ ấm, chống gió — phù hợp với điều kiện khắc nghiệt.\n\nNgoài ra, chúng cũng được ưa chuộng trong văn hoá “streetwear / casual” nhờ thiết kế cổ điển, mang nét “quân đội — vintage” dễ phối đồ."
+  },
+{
+    "id":"7",
+    "tags":["Order","Áo"],
+    "brand":"Valley",
+    "subtags":["Valley","T-Shirt"],
+    "name": "Valley Vintage Tee",
+    "img": "img/id7/40ff76ef.jpg",
+    "img2":"img/id7/8feeb180.jpg",
+    "img3":"img/id7/ac93c78e.jpg",
+    "img4":"img/id7/5add794c.jpg",
+    "img5":"img/id7/4b3314bf.jpg",
+    "price": 800000,
+    "size":["XL","L","M","S"],
+    "materials": {
+      "Cotton":100
+    },
+    "ratings": {"Độ biền":9, "Chất Lượng":9, "Tương đồng":10, "Độ Hiếm":8 },
+    "des":"Valley Apparel là thương hiệu Mỹ, chuyên sản xuất các loại flight jacket và military outerwear cho quân đội Mỹ trước khi mở rộng sang thị trường dân dụng. \n\nDo xuất phát từ quân đội, các áo khoác của Valley thường có phong cách cứng cáp, bền bỉ, thực dụng, thiên về bảo vệ, giữ ấm, chống gió — phù hợp với điều kiện khắc nghiệt.\n\nNgoài ra, chúng cũng được ưa chuộng trong văn hoá “streetwear / casual” nhờ thiết kế cổ điển, mang nét “quân đội — vintage” dễ phối đồ."
+  },
+{
+    "id":"6",
+    "tags":["Order","Áo"],
+    "brand":"Valley",
+    "subtags":["Jacket","Valley","Hoddie"],
+    "name": "Valley Green Hoddie Zip",
+    "img": "img/id6/cd3721ce.jpg",
+    "img2":"img/id6/f16ac5a3.jpg",
+    "img3":"img/id6/cddaa2d6.jpg",
+    "img4":"img/id6/7c787e2f.jpg",
+    "img5":"img/id6/849989ef.jpg",
+    "price": 1200000,
+    "size":["XL","L","M","S"],
+    "materials": {
+      "Cotton":100
+    },
+    "ratings": {"Độ biền":9, "Chất Lượng":9, "Tương đồng":10, "Độ Hiếm":8 },
+    "des":"Valley Apparel là thương hiệu Mỹ, chuyên sản xuất các loại flight jacket và military outerwear cho quân đội Mỹ trước khi mở rộng sang thị trường dân dụng. \n\nDo xuất phát từ quân đội, các áo khoác của Valley thường có phong cách cứng cáp, bền bỉ, thực dụng, thiên về bảo vệ, giữ ấm, chống gió — phù hợp với điều kiện khắc nghiệt.\n\nNgoài ra, chúng cũng được ưa chuộng trong văn hoá “streetwear / casual” nhờ thiết kế cổ điển, mang nét “quân đội — vintage” dễ phối đồ."
+  },
+{
+    "id":"5",
+    "tags":["Order","Áo"],
+    "brand":"Valley",
+    "subtags":["Jacket","Valley"],
+    "name": "Valley Dreams Jacket",
+    "img": "img/id5/fe0333b7.jpg",
+    "img2":"img/id5/ca46642e.jpg",
+    "img3":"img/id5/a7427b35.jpg",
+    "img4":"img/id5/f97b1910.jpg",
+    "img5":"img/id5/a03b8fce.jpg",
+    "price": 1200000,
+    "size":["XL","L","M","S"],
+    "materials": {
+      "Cotton":100
+    },
+    "ratings": {"Độ biền":9, "Chất Lượng":9, "Tương đồng":10, "Độ Hiếm":6 },
+    "des":"Valley Apparel là thương hiệu Mỹ, chuyên sản xuất các loại flight jacket và military outerwear cho quân đội Mỹ trước khi mở rộng sang thị trường dân dụng. \n\nDo xuất phát từ quân đội, các áo khoác của Valley thường có phong cách cứng cáp, bền bỉ, thực dụng, thiên về bảo vệ, giữ ấm, chống gió — phù hợp với điều kiện khắc nghiệt.\n\nNgoài ra, chúng cũng được ưa chuộng trong văn hoá “streetwear / casual” nhờ thiết kế cổ điển, mang nét “quân đội — vintage” dễ phối đồ."
+  },
+{
+    "id":"4",
+    "tags":["Order","Áo"],
+    "brand":"Valley",
+    "subtags":["Jacket","Valley"],
+    "name": "Valley Dreams Jacket",
+    "img": "img/id4/e0cca6a8.jpg",
+    "img2":"img/id4/459a95df.jpg",
+    "img3":"img/id4/468dd7d3.jpg",
+    "img4":"img/id4/9ff2925f.jpg",
+    "img5":"img/id4/89432cce.jpg",
+    "price": 1200000,
+    "size":["XL","L","M","S"],
+    "materials": {
+      "Cotton":100
+    },
+    "ratings": {"Độ biền":9, "Chất Lượng":9, "Tương đồng":10, "Độ Hiếm":6 },
+    "des":"Valley Apparel là thương hiệu Mỹ, chuyên sản xuất các loại flight jacket và military outerwear cho quân đội Mỹ trước khi mở rộng sang thị trường dân dụng. \n\nDo xuất phát từ quân đội, các áo khoác của Valley thường có phong cách cứng cáp, bền bỉ, thực dụng, thiên về bảo vệ, giữ ấm, chống gió — phù hợp với điều kiện khắc nghiệt.\n\nNgoài ra, chúng cũng được ưa chuộng trong văn hoá “streetwear / casual” nhờ thiết kế cổ điển, mang nét “quân đội — vintage” dễ phối đồ."
+  },
+{
+    "id":"3",
+    "tags":["Order","Áo"],
+    "brand":"Valley",
+    "subtags":["Jacket","Valley"],
+    "name": "Valley Dreams Jacket",
+    "img": "img/id3/f2813e12.jpg",
+    "img2":"img/id3/04ba5047.jpg",
+    "img3":"img/id3/d3967aba.jpg",
+    "img4":"img/id3/56c9b27c.jpg",
+    "img5":"img/id3/13d50365.jpg",
+    "price": 1200000,
+    "size":["XL","L","M","S"],
+    "materials": {
+      "Cotton":100
+    },
+    "ratings": {"Độ biền":9, "Chất Lượng":9, "Tương đồng":10, "Độ Hiếm":6 },
+    "des":"Valley Apparel là thương hiệu Mỹ, chuyên sản xuất các loại flight jacket và military outerwear cho quân đội Mỹ trước khi mở rộng sang thị trường dân dụng. \n\nDo xuất phát từ quân đội, các áo khoác của Valley thường có phong cách cứng cáp, bền bỉ, thực dụng, thiên về bảo vệ, giữ ấm, chống gió — phù hợp với điều kiện khắc nghiệt.\n\nNgoài ra, chúng cũng được ưa chuộng trong văn hoá “streetwear / casual” nhờ thiết kế cổ điển, mang nét “quân đội — vintage” dễ phối đồ."
+  },
+{
+    "id":"2",
     "tags":["Order","Giày"],
     "brand":"Nike",
-    "subtags":["Jordan 1","Jordan 1 High"],
-    "name": "Jordan 1 Union High",
-    "img": "img/ảnh giày edited/wsxc1758377467014_0.png",
-    "img2":"img/ảnh giày edited/wsxc1758377467014_1.png",
-    "img3":"img/ảnh giày edited/wsxc1758377467014_2.png",
-    "img4":"img/ảnh giày edited/wsxc1758377467014_3.png",
-    "img5":"img/ảnh giày edited/wsxc1758377467014_4.png",
-    "price": 1500000,
+    "subtags":["Kobe"],
+    "name": "Kobe Nike Tổng Hợp",
+    "img": "img/ảnh giày edited/id2/wsxc1758238153857_0.png",
+    "img2":"img/ảnh giày edited/id2/wsxc1758238173864_0.png",
+    "img3":"img/ảnh giày edited/id2/wsxc1758377460673_0.png",
+    "img4":"img/ảnh giày edited/id2/wsxc1758238110663_0.png",
+    "img5":"img/ảnh giày edited/id2/wsxc1758238126504_0.png",
+    "price": 1800000,
     "size":["36","37","38","39","40","41","42","43","44","45"],
     "materials": {
-        "Cotton": 60,
-        "Polyester": 30,
-        "Spandex": 10
+        "Flywire": 50,
+        "Zoom Air": 30,
+        "foam React": 10,
+        "Flyknit":10
     },
-    "ratings": {"Độ biền":8, "Chất Lượng":7, "Tương đồng":6, "Độ Hiếm":3 },
-    "des":"Air Jordan 1 là một biểu tượng văn hóa sát cánh cùng Michael Jordan, nổi tiếng với thiết kế vượt thời gian, sự thoải mái và di sản bóng rổ lừng lẫy.\n\nĐặc điểm chung\nBộ đệm Air-Sole: Tất cả các phiên bản Air Jordan 1 đều được trang bị bộ đệm Air-Sole (hoặc Nike Air technology) ở gót chân hoặc đế giữa, mang lại khả năng hấp thụ lực và sự thoải mái nhẹ nhàng.\nVật liệu cao cấp: Thân giày thường sử dụng kết hợp da thật và các vật liệu dệt khác (ví dụ: da nubuck, vải canvas) để đảm bảo độ bền và vẻ ngoài cao cấp.\nLogo: Các chi tiết logo nổi bật bao gồm dấu Swoosh đặc trưng của Nike ở hai bên, logo Wings (Đôi cánh) trên cổ giày (hoặc gót chân đối với bản Low) và logo Nike Air trên lưỡi gà.\nĐế ngoài: Đế ngoài bằng cao su bền bỉ cung cấp độ bám tốt trên nhiều bề mặt khác nhau. "
-  } ]
+    "ratings": {"Độ biền":9, "Chất Lượng":9, "Tương đồng":10, "Độ Hiếm":1 },
+    "des":"Dòng giày Kobe được tạo để phục vụ nhu cầu bóng rổ: di chuyển nhanh, bật nhảy, thay đổi hướng đột ngột. Vì vậy, trọng lượng nhẹ, ôm chân tốt, linh hoạt cao và khả năng phản hồi nhanh là ưu tiên hàng đầu.\n\nMột điểm mang tính đột phá là dòng Kobe đã đóng góp mạnh mẽ cho xu hướng giày cổ thấp (low-cut) trong bóng rổ — nổi bật nhất với phiên bản Nike Kobe IV. Điều này giúp giày nhẹ hơn, linh hoạt hơn mà vẫn đảm bảo bảo vệ đủ cho mắt cá chân nếu thiết kế và đệm tốt."
+  },
+{
+    "id":"1",
+    "tags":["Order","Giày"],
+    "brand":"Nike",
+    "subtags":["Kobe"],
+    "name": "Kobe Nike Tổng Hợp",
+    "img": "img/ảnh giày edited/id1/wsxc1758237702682_0.png",
+    "img2":"img/ảnh giày edited/id1/wsxc1758237961464_0.png",
+    "img3":"img/ảnh giày edited/id1/wsxc1758238026121_0.png",
+    "img4":"img/ảnh giày edited/id1/wsxc1758238110663_0.png",
+    "img5":"img/ảnh giày edited/id1/wsxc1758238126504_0.png",
+    "price": 1800000,
+    "size":["36","37","38","39","40","41","42","43","44","45"],
+    "materials": {
+        "Flywire": 50,
+        "Zoom Air": 30,
+        "foam React": 10,
+        "Flyknit":10
+    },
+    "ratings": {"Độ biền":9, "Chất Lượng":9, "Tương đồng":10, "Độ Hiếm":1 },
+    "des":"Dòng giày Kobe được tạo để phục vụ nhu cầu bóng rổ: di chuyển nhanh, bật nhảy, thay đổi hướng đột ngột. Vì vậy, trọng lượng nhẹ, ôm chân tốt, linh hoạt cao và khả năng phản hồi nhanh là ưu tiên hàng đầu.\n\nMột điểm mang tính đột phá là dòng Kobe đã đóng góp mạnh mẽ cho xu hướng giày cổ thấp (low-cut) trong bóng rổ — nổi bật nhất với phiên bản Nike Kobe IV. Điều này giúp giày nhẹ hơn, linh hoạt hơn mà vẫn đảm bảo bảo vệ đủ cho mắt cá chân nếu thiết kế và đệm tốt."
+  }
+]
