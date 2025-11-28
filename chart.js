@@ -20,17 +20,17 @@ async function loadMaterialData() {
                     datasets: [{
                         data: values,
                         backgroundColor: [
-                            "#8f8d54",
                             "#4e3f32",
-                            "#b19883",
                             "#e8dcd2",
+                            "#8f8d54",
+                            "#b19883",
                             "#efe6d8"
                             
                         ]
                     }]
                 },
                 options: {
-                    responsive: true,    // 👈 CHÍNH LÀ TÍNH NĂNG RESPONSIVE
+                    responsive: true, 
                     maintainAspectRatio: true,
                     cutout: "55%",
                     plugins: {
@@ -91,11 +91,11 @@ document.addEventListener("DOMContentLoaded", () => {
                     axis: 'y',
                     data: values,
                     borderWidth: 1,
-                    backgroundColor: "#8f8d54"
+                    backgroundColor: "#49840081"
                 }]
             },
             options: {
-                indexAxis: 'y',        // 💡 Chart ngang
+                indexAxis: 'y',       
                 responsive: true,
                 scales: {
                     x: {

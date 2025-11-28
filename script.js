@@ -146,9 +146,11 @@
         renderProducts();
     });
     function viewProductDetail(productId) {
-        const productDetail = products.find(p => p.id == productId);
-        const productInfoOut = JSON.stringify(productDetail);
-        localStorage.setItem('selectedProduct',productInfoOut)
+        console.log("asdasdasdasdasdasd");
+        let productDetail = products.find(p => p.id == productId);
+        let productInfoOut = JSON.stringify(productDetail);
+        localStorage.setItem('selectedProduct',productInfoOut);
         window.location.href="product_detail.html";
     }
+
 

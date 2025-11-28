@@ -1,6 +1,6 @@
 
 const product = JSON.parse(localStorage.getItem('selectedProduct'));
-console.log(product)
+console.log(product);
 let mainImg= product.img ;
 let detailImg2 = product.img2;
 let detailImg3 = product.img3;
@@ -74,15 +74,9 @@ function addToCart() {
         alert("Vui lòng chọn size!");
         return;
     }
-
-    // Lấy số lượng
     const quantitySelect = document.querySelectorAll(".button")[1];
     let quantity = quantitySelect.value === "Số Lượng" ? 1 : parseInt(quantitySelect.value);
-
-    // Lấy giỏ hàng từ localStorage
     let cart = JSON.parse(localStorage.getItem("cart")) || [];
-
-    // Kiểm tra nếu SP + size đã tồn tại trong giỏ
     const existed = cart.find(
         item => item.id === selectedProduct.id && item.size === selectedSize
     );

@@ -12,33 +12,31 @@ function renderCart() {
     let total = 0;
 
     cart.forEach((item, index) => {
-        const itemTotal = item.price * item.quantity;
-        total += itemTotal;
+    const itemTotal = item.price * item.quantity;
+    total += itemTotal;
 
-        container.innerHTML += `
-            <div class="cart-item">
-                <img src="${item.img}" alt="img">
-
+    container.innerHTML += `
+        <div class="cart-item">
+            <img src="${item.img}" alt="img">
+            <div class="cart-item-des">
                 <div class="item-info">
-                    <div class="item-name">${item.name}</div>
+                <div class="item-name">${item.name}</div>
                     <div class="item-size">Size: ${item.size}</div>
                     <div class="price">${item.price.toLocaleString("vi-VN")} VNĐ</div>
                     <div style="font-style: italic; font-size:40%">#id:${item.id} #brand:${item.brand}</div>
                 </div>
-
                 <div class="quantity-box">
                     <button onclick="changeQuantity(${index}, -1)">-</button>
                     <div>${item.quantity}</div>
                     <button onclick="changeQuantity(${index}, 1)">+</button>
                 </div>
-
                 <button class="remove-btn" onclick="removeItem(${index})">Xoá</button>
             </div>
+         </div>
         `;
     });
-
     document.getElementById("cartTotal").innerText =
-        total.toLocaleString("vi-VN");
+      total.toLocaleString("vi-VN");
 }
 
 function changeQuantity(index, delta) {
@@ -57,10 +55,9 @@ function removeItem(index) {
     localStorage.setItem("cart", JSON.stringify(cart));
     renderCart();
 }
-
 renderCart();
-//POP UP CONTACT
 
+//POP UP CONTACT
 const openBtn = document.getElementById("openContact");
 const popup = document.getElementById("contactPopup");
 const closeBtn = document.getElementById("closePopup");
