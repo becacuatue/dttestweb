@@ -14,21 +14,13 @@ async function renderRelatedProducts() {
     const track = document.getElementById("sliderTrack");
     related.forEach(p => {
         track.innerHTML += `
-                <div class="product-card" onclick="viewProductDetail2(${p.id})">
+                <div class="product" onclick="viewProductDetail2(${p.id})">
                     <img src="${p.img}">
                     <h3>${p.name}</h3>
                     <p style="font-family: "Momo Trust Display", sans-serif">${formattedPrice}₫</p>
                 </div>
-                `;
+        `;
     });
-    let position = 0;
-    setInterval(() => {
-        position -= 300;
-        if (Math.abs(position) >= track.scrollWidth - 100) {
-            position = 0;
-        }
-        track.style.transform = `translateX(${position}px)`;
-    }, 1000);
 }
 loadProducts().then(() => {
      renderRelatedProducts()

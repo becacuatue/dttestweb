@@ -2,7 +2,7 @@
   { "tags":["Order","Sẵn","Giày","Quần","Áo"],
     "name": "Cách Mua Hàng",
     "brand":"Nike",
-    "img": "img/Ảnh chụp màn hình 2024-12-02 223421.png",
+    "img": "img/logo.png",
     "img2":"img/ảnh giày edited/wsxc1758377920656_0.png",
     "img3":"img/ảnh giày edited/wsxc1758377938151_0.png",
     "img4":"img/ảnh giày edited/wsxc1758377959316_0.png",
@@ -16,6 +16,322 @@
     "ratings": {"Độ biền":8, "Chất Lượng":7, "Tương đồng":6, "Độ Hiếm":3 },
     "des": "DT ORDER là shop chuyên order và bán hàng sẵn các sản phẩm giày dép và quần áo chất lượng cao. \nTất cả mặt hàng đều được shop chọn lọc kỹ càng trước khi nhập hoặc đặt, đồng thời trải qua quá trình kiểm tra chi tiết dựa trên nhiều tiêu chí như chất liệu, độ bền, form dáng, mức độ hoàn thiện và tính thẩm mỹ. \nMỗi sản phẩm khi đến tay khách hàng đều đã được đánh giá kỹ lưỡng để đảm bảo chất lượng tốt nhất. \nKhi mua hàng, khách cần liên hệ trực tiếp với chủ shop để được tư vấn. \nĐối với hàng order, khách sẽ cần cọc trước 50%. Hàng sẵn có thể ship COD tùy khu vực. Đặc biệt, chủ shop sẽ freeship tùy tâm trạng :)"
 },
+{
+    "id":"36",
+    "tags":["Order","Áo"],
+    "brand":"Corteiz",
+    "subtags":["Corteiz","Puffer"],
+    "name": "Corteiz Puffer Jacket",
+    "img": "img/id36/85435907.jpg",
+    "img2":"img/id36/af4ede5c.jpg",
+    "img3":"img/id36/a876e90f.jpg",
+    "img4":"img/id36/51307e74.jpg",
+    "img5":"img/id36/9c15f552.jpg",
+    "price": 1450000,
+    "size":["XL","L","M","S"],
+    "materials": {
+     "Nylon/Polyester.":60,
+     "Lông Vũ":40
+    },
+    "ratings": {"Độ biền":9, "Chất Lượng":8.5, "Tương đồng":8.25, "Độ Hiếm":7 },
+    "des":"Chất liệu & thiết kế của áo phao Corteiz\nDưới đây là chung các đặc điểm mà áo phao / puffer của Corteiz thường có:\n\nVỏ ngoài (outer shell) — thường bằng nylon hoặc chất liệu chịu nước / chống gió, giúp bảo vệ khỏi gió, mưa nhẹ, thời tiết lạnh. \n\nLớp đệm / padding / insulation (lót giữ ấm): áo phao Corteiz được thiết kế để giữ nhiệt — phù hợp khi trời lạnh, thời tiết mùa đông hoặc lạnh gió. \nForm / phom áo — thường hơi oversize / roomy / relaxed fit, để mặc thoải mái, dễ layering (mặc trong áo phông/hoodie), phù hợp phong cách streetwear.\nChi tiết thiết kế streetwear: logos, tên thương hiệu, có thể kèm túi, khóa/cúc, kiểu dáng hiện đại — khiến jacket vừa thời trang vừa “cool ngầu” khi phối đồ đi chơi, dạo phố. \nKhả năng chống gió / hơi nước / bụi bẩn nhẹ — nhiều mẫu puffer của Corteiz được thiết kế để “kháng gió, bền vững, giữ ấm”, phù hợp thời tiết lạnh, ẩm, gió — giúp người mặc dễ chịu hơn khi di chuyển ngoài trời."
+  },
+{
+    "id":"35",
+    "tags":["Order","Áo"],
+    "brand":"Corteiz",
+    "subtags":["Corteiz","Puffer"],
+    "name": "Corteiz Zip Gió",
+    "img": "img/id35/14f99db7.jpg",
+    "img2":"img/id35/a0cb138d.jpg",
+    "img3":"img/id35/a2c9406f.jpg",
+    "img4":"img/id35/8aac1557.jpg",
+    "img5":"img/id35/432378b4.jpg",
+    "price": 1050000,
+    "size":["XL","L","M","S"],
+    "materials": {
+     "Nylon/Polyester.":100
+    },
+    "ratings": {"Độ biền":8, "Chất Lượng":8.5, "Tương đồng":7.75, "Độ Hiếm":10 },
+    "des":"Phong cách & cảm giác\n\nHoodie của Corteiz có phong cách streetwear rõ rệt — thường là oversize / relaxed fit, dễ phối đồ với quần jeans, cargo, jogger hay quần streetwear. \n\nKhi mặc mang lại cảm giác “urban casual”: vừa thoải mái, vừa thời trang, phù hợp đi đường phố, đi học, đi chơi, đi dạo. \n\nChất liệu & thiết kế\n\nHoodie thường được làm từ cotton hoặc cotton pha — mềm, thoáng, và đủ bền để mặc hàng ngày. \n\nCác đường may, cổ tay, gấu áo, nắp túi (nếu có) được gia cố chắc chắn — để Hoodie không nhanh hỏng sau nhiều lần mặc & giặt. \n\nThích hợp cho mùa thu / xuân / đông nhẹ — hoodie giúp giữ ấm cơ bản, hoặc làm lớp ngoài (layer) trong thời tiết se lạnh."
+  },
+{
+    "id":"34",
+    "tags":["Order","Áo"],
+    "brand":"Corteiz",
+    "subtags":["Corteiz","Puffer"],
+    "name": "Corteiz Zip",
+    "img": "img/id34/6ffc04db.jpg",
+    "img2":"img/id34/82b0ee9b.jpg",
+    "img3":"img/id34/696f805a.jpg",
+    "img4":"img/id34/25c8effa.jpg",
+    "img5":"img/id34/f2d0bef8.jpg",
+    "price": 1000000,
+    "size":["XL","L","M","S"],
+    "materials": {
+     "Cotton":100
+    },
+    "ratings": {"Độ biền":8, "Chất Lượng":8.5, "Tương đồng":7.75, "Độ Hiếm":10 },
+    "des":"Phong cách & cảm giác\n\nHoodie của Corteiz có phong cách streetwear rõ rệt — thường là oversize / relaxed fit, dễ phối đồ với quần jeans, cargo, jogger hay quần streetwear. \n\nKhi mặc mang lại cảm giác “urban casual”: vừa thoải mái, vừa thời trang, phù hợp đi đường phố, đi học, đi chơi, đi dạo. \n\nChất liệu & thiết kế\n\nHoodie thường được làm từ cotton hoặc cotton pha — mềm, thoáng, và đủ bền để mặc hàng ngày. \n\nCác đường may, cổ tay, gấu áo, nắp túi (nếu có) được gia cố chắc chắn — để Hoodie không nhanh hỏng sau nhiều lần mặc & giặt. \n\nThích hợp cho mùa thu / xuân / đông nhẹ — hoodie giúp giữ ấm cơ bản, hoặc làm lớp ngoài (layer) trong thời tiết se lạnh."
+  },
+{
+    "id":"33",
+    "tags":["Order","Áo"],
+    "brand":"Corteiz",
+    "subtags":["Corteiz","Puffer"],
+    "name": "Corteiz Puffer Jacket",
+    "img": "img/id33/edb184fe.jpg",
+    "img2":"img/id33/1c827539.jpg",
+    "img3":"img/id33/2877f2f2.jpg",
+    "img4":"img/id33/80b85b61.jpg",
+    "img5":"img/id33/61d3a3a4.jpg",
+    "price": 2150000,
+    "size":["XL","L","M","S"],
+    "materials": {
+     "Nylon/Polyester.":60,
+     "Lông Vũ":40
+    },
+    "ratings": {"Độ biền":10, "Chất Lượng":9.75, "Tương đồng":9.25, "Độ Hiếm":9.75 },
+    "des":"Chất liệu & thiết kế của áo phao Corteiz\nDưới đây là chung các đặc điểm mà áo phao / puffer của Corteiz thường có:\n\nVỏ ngoài (outer shell) — thường bằng nylon hoặc chất liệu chịu nước / chống gió, giúp bảo vệ khỏi gió, mưa nhẹ, thời tiết lạnh. \n\nLớp đệm / padding / insulation (lót giữ ấm): áo phao Corteiz được thiết kế để giữ nhiệt — phù hợp khi trời lạnh, thời tiết mùa đông hoặc lạnh gió. \nForm / phom áo — thường hơi oversize / roomy / relaxed fit, để mặc thoải mái, dễ layering (mặc trong áo phông/hoodie), phù hợp phong cách streetwear.\nChi tiết thiết kế streetwear: logos, tên thương hiệu, có thể kèm túi, khóa/cúc, kiểu dáng hiện đại — khiến jacket vừa thời trang vừa “cool ngầu” khi phối đồ đi chơi, dạo phố. \nKhả năng chống gió / hơi nước / bụi bẩn nhẹ — nhiều mẫu puffer của Corteiz được thiết kế để “kháng gió, bền vững, giữ ấm”, phù hợp thời tiết lạnh, ẩm, gió — giúp người mặc dễ chịu hơn khi di chuyển ngoài trời."
+  },
+{
+    "id":"32",
+    "tags":["Order","Áo"],
+    "brand":"Corteiz",
+    "subtags":["Corteiz","Puffer"],
+    "name": "Corteiz Puffer Jacket",
+    "img": "img/id32/71e10133.jpg",
+    "img2":"img/id32/089b3d63.jpg",
+    "img3":"img/id32/03f63207.jpg",
+    "img4":"img/id32/7e86d556.jpg",
+    "img5":"img/id32/b01d3657.jpg",
+    "price": 2150000,
+    "size":["XL","L","M","S"],
+    "materials": {
+     "Nylon/Polyester.":60,
+     "Lông Vũ":40
+    },
+    "ratings": {"Độ biền":10, "Chất Lượng":9.75, "Tương đồng":9.25, "Độ Hiếm":9.75 },
+    "des":"Chất liệu & thiết kế của áo phao Corteiz\nDưới đây là chung các đặc điểm mà áo phao / puffer của Corteiz thường có:\n\nVỏ ngoài (outer shell) — thường bằng nylon hoặc chất liệu chịu nước / chống gió, giúp bảo vệ khỏi gió, mưa nhẹ, thời tiết lạnh. \n\nLớp đệm / padding / insulation (lót giữ ấm): áo phao Corteiz được thiết kế để giữ nhiệt — phù hợp khi trời lạnh, thời tiết mùa đông hoặc lạnh gió. \nForm / phom áo — thường hơi oversize / roomy / relaxed fit, để mặc thoải mái, dễ layering (mặc trong áo phông/hoodie), phù hợp phong cách streetwear.\nChi tiết thiết kế streetwear: logos, tên thương hiệu, có thể kèm túi, khóa/cúc, kiểu dáng hiện đại — khiến jacket vừa thời trang vừa “cool ngầu” khi phối đồ đi chơi, dạo phố. \nKhả năng chống gió / hơi nước / bụi bẩn nhẹ — nhiều mẫu puffer của Corteiz được thiết kế để “kháng gió, bền vững, giữ ấm”, phù hợp thời tiết lạnh, ẩm, gió — giúp người mặc dễ chịu hơn khi di chuyển ngoài trời."
+  },
+{
+    "id":"31",
+    "tags":["Order","Áo"],
+    "brand":"Corteiz",
+    "subtags":["Corteiz","Puffer"],
+    "name": "Corteiz Puffer Jacket",
+    "img": "img/id31/cc8887dc.jpg",
+    "img2":"img/id31/c89c3b61.jpg",
+    "img3":"img/id31/0e67015d.jpg",
+    "img4":"img/id31/4b05e288.jpg",
+    "img5":"img/id31/74d7c24d.jpg",
+    "price": 1450000,
+    "size":["XL","L","M","S"],
+    "materials": {
+     "Nylon/Polyester.":60,
+     "Lông Vũ":40
+    },
+    "ratings": {"Độ biền":9, "Chất Lượng":8.5, "Tương đồng":8.25, "Độ Hiếm":7 },
+    "des":"Chất liệu & thiết kế của áo phao Corteiz\nDưới đây là chung các đặc điểm mà áo phao / puffer của Corteiz thường có:\n\nVỏ ngoài (outer shell) — thường bằng nylon hoặc chất liệu chịu nước / chống gió, giúp bảo vệ khỏi gió, mưa nhẹ, thời tiết lạnh. \n\nLớp đệm / padding / insulation (lót giữ ấm): áo phao Corteiz được thiết kế để giữ nhiệt — phù hợp khi trời lạnh, thời tiết mùa đông hoặc lạnh gió. \nForm / phom áo — thường hơi oversize / roomy / relaxed fit, để mặc thoải mái, dễ layering (mặc trong áo phông/hoodie), phù hợp phong cách streetwear.\nChi tiết thiết kế streetwear: logos, tên thương hiệu, có thể kèm túi, khóa/cúc, kiểu dáng hiện đại — khiến jacket vừa thời trang vừa “cool ngầu” khi phối đồ đi chơi, dạo phố. \nKhả năng chống gió / hơi nước / bụi bẩn nhẹ — nhiều mẫu puffer của Corteiz được thiết kế để “kháng gió, bền vững, giữ ấm”, phù hợp thời tiết lạnh, ẩm, gió — giúp người mặc dễ chịu hơn khi di chuyển ngoài trời."
+  },
+{
+    "id":"30",
+    "tags":["Order","Áo"],
+    "brand":"Corteiz",
+    "subtags":["Corteiz","Puffer"],
+    "name": "Corteiz Puffer Jacket",
+    "img": "img/id30/d8b3f12b.jpg",
+    "img2":"img/id30/9dea73b6.jpg",
+    "img3":"img/id30/91177eb4.jpg",
+    "img4":"img/id30/b431fdd8.jpg",
+    "img5":"img/id30/b431fdd8.jpg",
+    "price": 1450000,
+    "size":["XL","L","M","S"],
+    "materials": {
+     "Nylon/Polyester.":60,
+     "Lông Vũ":40
+    },
+    "ratings": {"Độ biền":9, "Chất Lượng":8.5, "Tương đồng":8.25, "Độ Hiếm":7 },
+    "des":"Chất liệu & thiết kế của áo phao Corteiz\nDưới đây là chung các đặc điểm mà áo phao / puffer của Corteiz thường có:\n\nVỏ ngoài (outer shell) — thường bằng nylon hoặc chất liệu chịu nước / chống gió, giúp bảo vệ khỏi gió, mưa nhẹ, thời tiết lạnh. \n\nLớp đệm / padding / insulation (lót giữ ấm): áo phao Corteiz được thiết kế để giữ nhiệt — phù hợp khi trời lạnh, thời tiết mùa đông hoặc lạnh gió. \nForm / phom áo — thường hơi oversize / roomy / relaxed fit, để mặc thoải mái, dễ layering (mặc trong áo phông/hoodie), phù hợp phong cách streetwear.\nChi tiết thiết kế streetwear: logos, tên thương hiệu, có thể kèm túi, khóa/cúc, kiểu dáng hiện đại — khiến jacket vừa thời trang vừa “cool ngầu” khi phối đồ đi chơi, dạo phố. \nKhả năng chống gió / hơi nước / bụi bẩn nhẹ — nhiều mẫu puffer của Corteiz được thiết kế để “kháng gió, bền vững, giữ ấm”, phù hợp thời tiết lạnh, ẩm, gió — giúp người mặc dễ chịu hơn khi di chuyển ngoài trời."
+  },
+{
+    "id":"29",
+    "tags":["Order","Áo"],
+    "brand":"Corteiz",
+    "subtags":["Corteiz","Puffer"],
+    "name": "Corteiz Puffer Jacket",
+    "img": "img/id29/82de3f8d.jpg",
+    "img2":"img/id29/cd0c4a48.jpg",
+    "img3":"img/id29/54e4291c.jpg",
+    "img4":"img/id29/1637869b.jpg",
+    "img5":"img/id29/936a19b6.jpg",
+    "price": 1550000,
+    "size":["XL","L","M","S"],
+    "materials": {
+     "Nylon/Polyester.":60,
+     "Lông Vũ":40
+    },
+    "ratings": {"Độ biền":9, "Chất Lượng":9.5, "Tương đồng":9.25, "Độ Hiếm":7 },
+    "des":"Chất liệu & thiết kế của áo phao Corteiz\nDưới đây là chung các đặc điểm mà áo phao / puffer của Corteiz thường có:\n\nVỏ ngoài (outer shell) — thường bằng nylon hoặc chất liệu chịu nước / chống gió, giúp bảo vệ khỏi gió, mưa nhẹ, thời tiết lạnh. \n\nLớp đệm / padding / insulation (lót giữ ấm): áo phao Corteiz được thiết kế để giữ nhiệt — phù hợp khi trời lạnh, thời tiết mùa đông hoặc lạnh gió. \nForm / phom áo — thường hơi oversize / roomy / relaxed fit, để mặc thoải mái, dễ layering (mặc trong áo phông/hoodie), phù hợp phong cách streetwear.\nChi tiết thiết kế streetwear: logos, tên thương hiệu, có thể kèm túi, khóa/cúc, kiểu dáng hiện đại — khiến jacket vừa thời trang vừa “cool ngầu” khi phối đồ đi chơi, dạo phố. \nKhả năng chống gió / hơi nước / bụi bẩn nhẹ — nhiều mẫu puffer của Corteiz được thiết kế để “kháng gió, bền vững, giữ ấm”, phù hợp thời tiết lạnh, ẩm, gió — giúp người mặc dễ chịu hơn khi di chuyển ngoài trời."
+  },
+{
+    "id":"28",
+    "tags":["Order","Áo"],
+    "brand":"Corteiz",
+    "subtags":["Corteiz","Puffer"],
+    "name": "Corteiz Puffer Jacket",
+    "img": "img/id28/7fcec045.jpg",
+    "img2":"img/id28/f77c958c.jpg",
+    "img3":"img/id28/1a46697b.jpg",
+    "img4":"img/id28/eb3319e6.jpg",
+    "img5":"img/id28/69d720fa.jpg",
+    "price": 1550000,
+    "size":["XL","L","M","S"],
+    "materials": {
+     "Nylon/Polyester.":60,
+     "Lông Vũ":40
+    },
+    "ratings": {"Độ biền":9, "Chất Lượng":9.5, "Tương đồng":9.25, "Độ Hiếm":7 },
+    "des":"Chất liệu & thiết kế của áo phao Corteiz\nDưới đây là chung các đặc điểm mà áo phao / puffer của Corteiz thường có:\n\nVỏ ngoài (outer shell) — thường bằng nylon hoặc chất liệu chịu nước / chống gió, giúp bảo vệ khỏi gió, mưa nhẹ, thời tiết lạnh. \n\nLớp đệm / padding / insulation (lót giữ ấm): áo phao Corteiz được thiết kế để giữ nhiệt — phù hợp khi trời lạnh, thời tiết mùa đông hoặc lạnh gió. \nForm / phom áo — thường hơi oversize / roomy / relaxed fit, để mặc thoải mái, dễ layering (mặc trong áo phông/hoodie), phù hợp phong cách streetwear.\nChi tiết thiết kế streetwear: logos, tên thương hiệu, có thể kèm túi, khóa/cúc, kiểu dáng hiện đại — khiến jacket vừa thời trang vừa “cool ngầu” khi phối đồ đi chơi, dạo phố. \nKhả năng chống gió / hơi nước / bụi bẩn nhẹ — nhiều mẫu puffer của Corteiz được thiết kế để “kháng gió, bền vững, giữ ấm”, phù hợp thời tiết lạnh, ẩm, gió — giúp người mặc dễ chịu hơn khi di chuyển ngoài trời."
+  },
+{
+    "id":"27",
+    "tags":["Order","Áo"],
+    "brand":"Corteiz",
+    "subtags":["Corteiz","Jacket"],
+    "name": "Corteiz Denim Jacket",
+    "img": "img/id27/869851d7.jpg",
+    "img2":"img/id27/1380f1d9.jpg",
+    "img3":"img/id27/1068280a.jpg",
+    "img4":"img/id27/19e007bd.jpg",
+    "img5":"img/id27/7704b935.jpg",
+    "price": 1100000,
+    "size":["XL","L","M","S"],
+    "materials": {
+     "Cotton":100
+    },
+    "ratings": {"Độ biền":9, "Chất Lượng":9.5, "Tương đồng":8.75, "Độ Hiếm":7 },
+    "des":"Chất liệu & thiết kế của áo phao Corteiz\nDưới đây là chung các đặc điểm mà áo phao / puffer của Corteiz thường có:\n\nVỏ ngoài (outer shell) — thường bằng nylon hoặc chất liệu chịu nước / chống gió, giúp bảo vệ khỏi gió, mưa nhẹ, thời tiết lạnh. \n\nLớp đệm / padding / insulation (lót giữ ấm): áo phao Corteiz được thiết kế để giữ nhiệt — phù hợp khi trời lạnh, thời tiết mùa đông hoặc lạnh gió. \nForm / phom áo — thường hơi oversize / roomy / relaxed fit, để mặc thoải mái, dễ layering (mặc trong áo phông/hoodie), phù hợp phong cách streetwear.\nChi tiết thiết kế streetwear: logos, tên thương hiệu, có thể kèm túi, khóa/cúc, kiểu dáng hiện đại — khiến jacket vừa thời trang vừa “cool ngầu” khi phối đồ đi chơi, dạo phố. \nKhả năng chống gió / hơi nước / bụi bẩn nhẹ — nhiều mẫu puffer của Corteiz được thiết kế để “kháng gió, bền vững, giữ ấm”, phù hợp thời tiết lạnh, ẩm, gió — giúp người mặc dễ chịu hơn khi di chuyển ngoài trời."
+  },
+{
+    "id":"26",
+    "tags":["Order","Áo"],
+    "brand":"Corteiz",
+    "subtags":["Corteiz","Puffer"],
+    "name": "Corteiz Zip",
+    "img": "img/id26/d8f5698f.jpg",
+    "img2":"img/id26/2d105075.jpg",
+    "img3":"img/id26/0bce7d8b.jpg",
+    "img4":"img/id26/773175c3.jpg",
+    "img5":"img/id26/34cf0cb1.jpg",
+    "price": 1200000,
+    "size":["XL","L","M","S"],
+    "materials": {
+     "Cotton":100
+    },
+    "ratings": {"Độ biền":9, "Chất Lượng":9.5, "Tương đồng":8.75, "Độ Hiếm":7 },
+    "des":"Chất liệu & thiết kế của áo phao Corteiz\nDưới đây là chung các đặc điểm mà áo phao / puffer của Corteiz thường có:\n\nVỏ ngoài (outer shell) — thường bằng nylon hoặc chất liệu chịu nước / chống gió, giúp bảo vệ khỏi gió, mưa nhẹ, thời tiết lạnh. \n\nLớp đệm / padding / insulation (lót giữ ấm): áo phao Corteiz được thiết kế để giữ nhiệt — phù hợp khi trời lạnh, thời tiết mùa đông hoặc lạnh gió. \nForm / phom áo — thường hơi oversize / roomy / relaxed fit, để mặc thoải mái, dễ layering (mặc trong áo phông/hoodie), phù hợp phong cách streetwear.\nChi tiết thiết kế streetwear: logos, tên thương hiệu, có thể kèm túi, khóa/cúc, kiểu dáng hiện đại — khiến jacket vừa thời trang vừa “cool ngầu” khi phối đồ đi chơi, dạo phố. \nKhả năng chống gió / hơi nước / bụi bẩn nhẹ — nhiều mẫu puffer của Corteiz được thiết kế để “kháng gió, bền vững, giữ ấm”, phù hợp thời tiết lạnh, ẩm, gió — giúp người mặc dễ chịu hơn khi di chuyển ngoài trời."
+  },
+{
+    "id":"25",
+    "tags":["Order","Áo"],
+    "brand":"Corteiz",
+    "subtags":["Corteiz","Puffer"],
+    "name": "Corteiz Puffer Jacket",
+    "img": "img/id25/2f40b9f1.jpg",
+    "img2":"img/id25/3c9587ec.jpg",
+    "img3":"img/id25/d54e4e48.jpg",
+    "img4":"img/id25/f8103e4b.jpg",
+    "img5":"img/id25/0ccdb4a3.jpg",
+    "price": 1550000,
+    "size":["XL","L","M","S"],
+    "materials": {
+     "Nylon/Polyester.":60,
+     "Lông Vũ":40
+    },
+    "ratings": {"Độ biền":9, "Chất Lượng":9.5, "Tương đồng":8.75, "Độ Hiếm":7 },
+    "des":"Chất liệu & thiết kế của áo phao Corteiz\nDưới đây là chung các đặc điểm mà áo phao / puffer của Corteiz thường có:\n\nVỏ ngoài (outer shell) — thường bằng nylon hoặc chất liệu chịu nước / chống gió, giúp bảo vệ khỏi gió, mưa nhẹ, thời tiết lạnh. \n\nLớp đệm / padding / insulation (lót giữ ấm): áo phao Corteiz được thiết kế để giữ nhiệt — phù hợp khi trời lạnh, thời tiết mùa đông hoặc lạnh gió. \nForm / phom áo — thường hơi oversize / roomy / relaxed fit, để mặc thoải mái, dễ layering (mặc trong áo phông/hoodie), phù hợp phong cách streetwear.\nChi tiết thiết kế streetwear: logos, tên thương hiệu, có thể kèm túi, khóa/cúc, kiểu dáng hiện đại — khiến jacket vừa thời trang vừa “cool ngầu” khi phối đồ đi chơi, dạo phố. \nKhả năng chống gió / hơi nước / bụi bẩn nhẹ — nhiều mẫu puffer của Corteiz được thiết kế để “kháng gió, bền vững, giữ ấm”, phù hợp thời tiết lạnh, ẩm, gió — giúp người mặc dễ chịu hơn khi di chuyển ngoài trời."
+  },
+{
+    "id":"24",
+    "tags":["Order","Áo"],
+    "brand":"Corteiz",
+    "subtags":["Corteiz","Puffer"],
+    "name": "Corteiz Puffer Jacket",
+    "img": "img/id24/b42aad32.jpg",
+    "img2":"img/id24/a93bda09.jpg",
+    "img3":"img/id24/161ddd8a.jpg",
+    "img4":"img/id24/2d331f30.jpg",
+    "img5":"img/id24/a376cfc0.jpg",
+    "price": 1550000,
+    "size":["XL","L","M","S"],
+    "materials": {
+     "Nylon/Polyester.":60,
+     "Lông Vũ":40
+    },
+    "ratings": {"Độ biền":9, "Chất Lượng":9.5, "Tương đồng":8.75, "Độ Hiếm":7 },
+    "des":"Chất liệu & thiết kế của áo phao Corteiz\nDưới đây là chung các đặc điểm mà áo phao / puffer của Corteiz thường có:\n\nVỏ ngoài (outer shell) — thường bằng nylon hoặc chất liệu chịu nước / chống gió, giúp bảo vệ khỏi gió, mưa nhẹ, thời tiết lạnh. \n\nLớp đệm / padding / insulation (lót giữ ấm): áo phao Corteiz được thiết kế để giữ nhiệt — phù hợp khi trời lạnh, thời tiết mùa đông hoặc lạnh gió. \nForm / phom áo — thường hơi oversize / roomy / relaxed fit, để mặc thoải mái, dễ layering (mặc trong áo phông/hoodie), phù hợp phong cách streetwear.\nChi tiết thiết kế streetwear: logos, tên thương hiệu, có thể kèm túi, khóa/cúc, kiểu dáng hiện đại — khiến jacket vừa thời trang vừa “cool ngầu” khi phối đồ đi chơi, dạo phố. \nKhả năng chống gió / hơi nước / bụi bẩn nhẹ — nhiều mẫu puffer của Corteiz được thiết kế để “kháng gió, bền vững, giữ ấm”, phù hợp thời tiết lạnh, ẩm, gió — giúp người mặc dễ chịu hơn khi di chuyển ngoài trời."
+  },
+{
+    "id":"23",
+    "tags":["Order","Áo"],
+    "brand":"Corteiz",
+    "subtags":["Corteiz","Puffer"],
+    "name": "Corteiz Puffer Jacket",
+    "img": "img/id23/aea45122.jpg",
+    "img2":"img/id23/0e003868.jpg",
+    "img3":"img/id23/46dfde91.jpg",
+    "img4":"img/id23/be56f770.jpg",
+    "img5":"img/id23/6c4682b3.jpg",
+    "price": 1450000,
+    "size":["XL","L","M","S"],
+    "materials": {
+     "Nylon/Polyester.":60,
+     "Lông Vũ":40
+    },
+    "ratings": {"Độ biền":9, "Chất Lượng":9.5, "Tương đồng":8.75, "Độ Hiếm":7 },
+    "des":"Chất liệu & thiết kế của áo phao Corteiz\nDưới đây là chung các đặc điểm mà áo phao / puffer của Corteiz thường có:\n\nVỏ ngoài (outer shell) — thường bằng nylon hoặc chất liệu chịu nước / chống gió, giúp bảo vệ khỏi gió, mưa nhẹ, thời tiết lạnh. \n\nLớp đệm / padding / insulation (lót giữ ấm): áo phao Corteiz được thiết kế để giữ nhiệt — phù hợp khi trời lạnh, thời tiết mùa đông hoặc lạnh gió. \nForm / phom áo — thường hơi oversize / roomy / relaxed fit, để mặc thoải mái, dễ layering (mặc trong áo phông/hoodie), phù hợp phong cách streetwear.\nChi tiết thiết kế streetwear: logos, tên thương hiệu, có thể kèm túi, khóa/cúc, kiểu dáng hiện đại — khiến jacket vừa thời trang vừa “cool ngầu” khi phối đồ đi chơi, dạo phố. \nKhả năng chống gió / hơi nước / bụi bẩn nhẹ — nhiều mẫu puffer của Corteiz được thiết kế để “kháng gió, bền vững, giữ ấm”, phù hợp thời tiết lạnh, ẩm, gió — giúp người mặc dễ chịu hơn khi di chuyển ngoài trời."
+  },
+{
+    "id":"22",
+    "tags":["Order","Áo"],
+    "brand":"Corteiz",
+    "subtags":["Corteiz","Puffer"],
+    "name": "Corteiz Puffer Jacket",
+    "img": "img/id22/819305bd.jpg",
+    "img2":"img/id22/aa0363f4.jpg",
+    "img3":"img/id22/4e86626f.jpg",
+    "img4":"img/id22/0edc2f9e.jpg",
+    "img5":"img/id22/c43cfcbe.jpg",
+    "price": 1450000,
+    "size":["XL","L","M","S"],
+    "materials": {
+     "Nylon/Polyester.":60,
+     "Lông Vũ":40
+    },
+    "ratings": {"Độ biền":9, "Chất Lượng":9.5, "Tương đồng":8.75, "Độ Hiếm":7 },
+    "des":"Chất liệu & thiết kế của áo phao Corteiz\nDưới đây là chung các đặc điểm mà áo phao / puffer của Corteiz thường có:\n\nVỏ ngoài (outer shell) — thường bằng nylon hoặc chất liệu chịu nước / chống gió, giúp bảo vệ khỏi gió, mưa nhẹ, thời tiết lạnh. \n\nLớp đệm / padding / insulation (lót giữ ấm): áo phao Corteiz được thiết kế để giữ nhiệt — phù hợp khi trời lạnh, thời tiết mùa đông hoặc lạnh gió. \nForm / phom áo — thường hơi oversize / roomy / relaxed fit, để mặc thoải mái, dễ layering (mặc trong áo phông/hoodie), phù hợp phong cách streetwear.\nChi tiết thiết kế streetwear: logos, tên thương hiệu, có thể kèm túi, khóa/cúc, kiểu dáng hiện đại — khiến jacket vừa thời trang vừa “cool ngầu” khi phối đồ đi chơi, dạo phố. \nKhả năng chống gió / hơi nước / bụi bẩn nhẹ — nhiều mẫu puffer của Corteiz được thiết kế để “kháng gió, bền vững, giữ ấm”, phù hợp thời tiết lạnh, ẩm, gió — giúp người mặc dễ chịu hơn khi di chuyển ngoài trời."
+  },
+{
+    "id":"21",
+    "tags":["Order","Áo"],
+    "brand":"Corteiz",
+    "subtags":["Corteiz","Puffer"],
+    "name": "Corteiz Puffer Jacket",
+    "img": "img/id21/48c03936.jpg",
+    "img2":"img/id21/5fababdd.jpg",
+    "img3":"img/id21/7e2c115d.jpg",
+    "img4":"img/id21/bd2a73ad.jpg",
+    "img5":"img/id21/6e68add8.jpg",
+    "price": 1150000,
+    "size":["XL","L","M","S"],
+    "materials": {
+     "Nylon/Polyester.":60,
+     "Lông Vũ":40
+    },
+    "ratings": {"Độ biền":9, "Chất Lượng":8.5, "Tương đồng":8, "Độ Hiếm":5 },
+    "des":"Chất liệu & thiết kế của áo phao Corteiz\nDưới đây là chung các đặc điểm mà áo phao / puffer của Corteiz thường có:\n\nVỏ ngoài (outer shell) — thường bằng nylon hoặc chất liệu chịu nước / chống gió, giúp bảo vệ khỏi gió, mưa nhẹ, thời tiết lạnh. \n\nLớp đệm / padding / insulation (lót giữ ấm): áo phao Corteiz được thiết kế để giữ nhiệt — phù hợp khi trời lạnh, thời tiết mùa đông hoặc lạnh gió. \nForm / phom áo — thường hơi oversize / roomy / relaxed fit, để mặc thoải mái, dễ layering (mặc trong áo phông/hoodie), phù hợp phong cách streetwear.\nChi tiết thiết kế streetwear: logos, tên thương hiệu, có thể kèm túi, khóa/cúc, kiểu dáng hiện đại — khiến jacket vừa thời trang vừa “cool ngầu” khi phối đồ đi chơi, dạo phố. \nKhả năng chống gió / hơi nước / bụi bẩn nhẹ — nhiều mẫu puffer của Corteiz được thiết kế để “kháng gió, bền vững, giữ ấm”, phù hợp thời tiết lạnh, ẩm, gió — giúp người mặc dễ chịu hơn khi di chuyển ngoài trời."
+  },
 {
     "id":"20",
     "tags":["Order","Áo"],
@@ -292,7 +608,7 @@
     "tags":["Order","Áo"],
     "brand":"Valley",
     "subtags":["Jacket","Valley","Hoddie"],
-    "name": "Valley Green Hoddie Zip",
+    "name": "Valley Green Hoddie",
     "img": "img/id6/cd3721ce.jpg",
     "img2":"img/id6/f16ac5a3.jpg",
     "img3":"img/id6/cddaa2d6.jpg",

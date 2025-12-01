@@ -23,7 +23,7 @@
     let allTags = [];
     let activeTag = null;
     let currentPage = 1;
-    const perPage = 48;
+    const perPage = 36;
     function renderTags() {
         tagBar.innerHTML = `
             <button class="tag-btn ${activeTag === null ? "active" : ""}" onclick="selectTag(null)">
@@ -106,13 +106,36 @@
     }
     function renderPagination(totalPages) {
         pagination.innerHTML = "";
-
-        for (let i = 1; i <= totalPages; i++) {
-            pagination.innerHTML += `
-                <button class="page-btn ${i === currentPage ? "active" : ""}" onclick="goPage(${i})">
-                    ${i}
-                </button>
-            `;
+        let initPage = 4 + 4*(Math.floor(currentPage/4));
+        if (initPage > totalPages){
+            initPage = totalPages;
+        }
+        if (currentPage <4){
+            for (let i = 1 ; i <= initPage; i++) {
+                pagination.innerHTML += `
+                    <button class="page-btn ${i === currentPage ? "active" : ""}" onclick="goPage(${i})">
+                        ${i}
+                    </button>
+                `;
+            }
+        } else{if(currentPage >= 4 && currentPage < totalPages){
+                console.log(initPage);
+                for (let i = initPage - 5 ; i <= initPage; i++) {
+                    pagination.innerHTML += `
+                        <button class="page-btn ${i === currentPage ? "active" : ""}" onclick="goPage(${i})">
+                            ${i}
+                        </button>
+                    `;
+                }
+            }if(currentPage == totalPages ){
+                for (let i = totalPages -5 ; i <= totalPages; i++) {
+                    pagination.innerHTML += `
+                        <button class="page-btn ${i === currentPage ? "active" : ""}" onclick="goPage(${i})">
+                            ${i}
+                        </button>
+                    `;
+                }
+            }
         }
     }
 

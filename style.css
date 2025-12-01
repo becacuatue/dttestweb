@@ -300,19 +300,6 @@ body {
     margin-top: 30px;
     overflow: hidden;
 }
-
-.slider {
-    width: 100%;
-    overflow: hidden;
-    position: relative;
-}
-
-.slider-track {
-    display: flex;
-    gap: 15px;
-    transition: transform 0.5s ease;
-}
-
 .product-card {
     max-width: 250px;
     min-width: 150px;
