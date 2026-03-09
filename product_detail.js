@@ -1,11 +1,12 @@
 
 const product = JSON.parse(localStorage.getItem('selectedProduct'));
 console.log(product);
-let mainImg= product.img ;
-let detailImg2 = product.img2;
-let detailImg3 = product.img3;
-let detailImg4 = product.img4;
-let detailImg5 = product.img5;
+let slideIndex = 0;
+let index = 0;
+let detailImg2 = product.images[1];
+let detailImg3 = product.images[2];
+let detailImg4 = product.images[3];
+let detailImg5 = product.images[4];
 let size = [];
 size = product.size;
 size.forEach(sizes => {
@@ -18,38 +19,25 @@ const formattedPrice = Number(product.price).toLocaleString('vi-VN');
         document.getElementById('productTag').innerText = product.tags;
         document.getElementById('productName').innerText = product.brand + ': ' + product.name; 
         document.getElementById('productPrice').innerText = formattedPrice + '₫';
-        document.getElementById('productImage').src = mainImg;
-        document.getElementById('sildeImg2').src = detailImg2;   
-        document.getElementById('sildeImg3').src = detailImg3;  
-        document.getElementById('sildeImg4').src = detailImg4;  
-        document.getElementById('sildeImg5').src = detailImg5;  
+        document.getElementById('productImage').src = product.images[0];
         document.getElementById('detailImg2').src = detailImg2;   
         document.getElementById('detailImg3').src = detailImg3;  
         document.getElementById('detailImg4').src = detailImg4;  
         document.getElementById('detailImg5').src = detailImg5;
-      
-
-let slideIndex = 0;
-let index = 0;
-const slides = document.querySelectorAll(".slides img");
-showSlide(slideIndex);
 function showSlide(slideIndex){
-  slides.forEach(slide =>{
-    slide.classList.add("hideImg");
-  })
-  slides[slideIndex].classList.remove("hideImg");
-  console.log(slideIndex)
+  console.log(product.images[slideIndex]);
+  document.getElementById('productImage').src = product.images[slideIndex];
 }
 function next(){
   index++;
-  slideIndex = index - (slides.length)*(Math.floor(index/(slides.length))); 
+  slideIndex = index - ((product.images).length)*(Math.floor(index/((product.images).length))); 
   showSlide(slideIndex)
   console.log(index);
 }
 function prev(){
   index -- ;
   if(index >= 0){
-    slideIndex = index - (slides.length)*(Math.floor(index/(slides.length)));
+    slideIndex = index - ((product.images).length)*(Math.floor(index/((product.images).length)));
     showSlide(slideIndex);
   }if (index < 0){
     index=0;
@@ -88,7 +76,7 @@ function addToCart() {
             id: selectedProduct.id,
             brand: selectedProduct.brand,
             name: selectedProduct.name,
-            img: selectedProduct.img,
+            img: selectedProduct.images[0],
             price: selectedProduct.price,
             size: selectedSize,
             quantity: quantity

@@ -272,10 +272,6 @@ body {
 .next{
     right: 0%;
 }
-.hideImg{
-    width: 200px;
-    display: none;
-}
 .chart{
     width: 100%;
     display: flex;
